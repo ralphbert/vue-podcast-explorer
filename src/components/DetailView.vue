@@ -2,7 +2,7 @@
   <div class="detail-view">
     <UserInfo class="meta" :user="post.user"></UserInfo>
     <header>
-      <img class="img-fluid" :src="post.image">
+      <img class="img-fluid" :src="post.image" />
       <h1 class="text-center">{{ post.title }}</h1>
     </header>
     <section class="inner">
@@ -30,6 +30,7 @@ export default class DetailView extends Vue {
 
 <style lang="scss" scoped>
 .detail-view {
+  position: relative;
   flex: 1;
   background-color: #fff;
   min-height: 100%;

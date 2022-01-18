@@ -14,8 +14,10 @@ export default class List extends Vue {
 </script>
 
 <style scoped lang="scss">
+@import "../scss/mixins";
+
 .list {
-  padding: 0 1rem;
+  padding: 0.5rem 1rem;
 }
 
 .list-item {

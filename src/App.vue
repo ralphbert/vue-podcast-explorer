@@ -56,10 +56,14 @@ export default class App extends Vue {
 @import "./scss/base.scss";
 
 html,
-body,
-#app {
+body {
   height: 100%;
   padding: 0;
   margin: 0;
+}
+
+#app {
+  height: auto;
+  min-height: 100%;
 }
 </style>

@@ -55,11 +55,14 @@ export default class ListItem extends Vue {
   &.clickable.active,
   &.active {
     background-color: var(--primary);
-    transform: translateX(10px);
 
     .list-title,
     .list-sub-title {
       color: #fff;
+    }
+
+    @include breakpoint($screen-size-md) {
+      transform: translateX(10px);
     }
   }
 }
