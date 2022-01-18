@@ -1,0 +1,81 @@
+:root {
+  font-size: 16px;
+
+  --primary: #22acf6;
+  --bg-light: #efefef;
+
+  --gray-100: #f6f6f6;
+  --gray-200: #efefef;
+  --gray-300: #cfcfcf;
+  --gray-400: #A0A0A0;
+  --gray-500: #888888;
+  --gray-600: #707070;
+  --gray-700: #606060;
+  --gray-800: #484848;
+  --gray-900: #282828;
+
+  --border-radius: 0.25rem;
+  --border-radius-full: 9999px;
+
+  --font-serif: Georgia, Time New Roman, serif;
+  --font-sans: Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--gray-800);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.text-muted {
+  color: var(--gray-300);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-medium {
+  font-weight: 500;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-sm {
+  font-size: 0.8rem;
+}
+
+img {
+  display: block;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin: 0 0 1rem;
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}

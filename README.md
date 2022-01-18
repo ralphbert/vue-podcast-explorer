@@ -1,5 +1,11 @@
 # fe-ralph-harrer
 
+## About the project
+
+I am currently working with Angular and I never used Vue in combination with TypeScript before to please be patient with me ;-).
+
+
+
 ## Project setup
 ```
 npm install
@@ -27,3 +33,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+

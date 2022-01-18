@@ -1,0 +1,8 @@
+@mixin inset($value: 0) {
+  top: $value;
+  left: $value;
+  bottom: $value;
+  right: $value;
+  width: 100%;
+  height: 100%;
+}
