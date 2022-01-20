@@ -9,7 +9,7 @@ import { Prop } from "vue-property-decorator";
 import UserInfo from "@/components/UserInfo.vue";
 import LazyImage from "@/components/LazyImage.vue";
 import DetailView from "@/components/DetailView.vue";
-import { FeedItem } from "@/store/store";
+import { FeedItem } from "@/types";
 
 @Component<DetailPage>({
   components: { DetailView, LazyImage, UserInfo },
@@ -23,7 +23,6 @@ export default class DetailPage extends Vue {
   @Prop() feedId!: string;
 
   update(): void {
-    console.log("update", this.feedId);
     this.$store.dispatch("select", this.feedId);
   }
 

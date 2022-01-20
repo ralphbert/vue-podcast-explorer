@@ -15,7 +15,7 @@
 <script lang="ts">
 import Component from "vue-class-component";
 import Vue from "vue";
-import { FeedToggleItem } from "@/store/store";
+import { FeedToggleItem } from "@/types";
 
 /**
  * Mmmmmh Burger!

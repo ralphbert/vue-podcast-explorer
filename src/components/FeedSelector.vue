@@ -9,7 +9,7 @@
 <script lang="ts">
 import Component from "vue-class-component";
 import Vue from "vue";
-import { PodcastSource } from "@/store/store";
+import { PodcastSource } from "@/types";
 
 /**
  * Mmmmmh Burger!

@@ -1,34 +1,9 @@
 import Vue from "vue";
 import Vuex from "vuex";
 import { podcastLoader } from "@/services/podcast-loader";
-import Parser from "rss-parser";
+import { Feed, FeedItem, FeedToggleItem, PodcastSource } from "@/types";
 
 Vue.use(Vuex);
-
-export type Feed = Parser.Output<unknown>;
-export type FeedItem = Parser.Item & { image: { url: string } };
-
-export interface PodcastSource {
-  name: string;
-  feed: string;
-}
-
-export interface StoreModel {
-  sources: PodcastSource[];
-  search: string;
-  shownFeeds: string[];
-  feeds: Feed[];
-  read: string[];
-  loading: boolean;
-  error: Error | null;
-  selectedItemId: string | null;
-}
-
-export interface FeedToggleItem {
-  title: string;
-  id: string;
-  active: boolean;
-}
 
 const predefinedSources = [
   {
@@ -44,6 +19,17 @@ const predefinedSources = [
     feed: "./minkorrekt-feed.rss",
   },
 ];
+
+export interface StoreModel {
+  sources: PodcastSource[];
+  search: string;
+  shownFeeds: string[];
+  feeds: Feed[];
+  read: string[];
+  loading: boolean;
+  error: Error | null;
+  selectedItemId: string | null;
+}
 
 export const store = new Vuex.Store<StoreModel>({
   state: {
@@ -131,8 +117,15 @@ export const store = new Vuex.Store<StoreModel>({
     loading: (state) => state.loading,
     feeds: (state) => state.feeds,
     readItems: (state) => state.read,
-    selected(state, getters) {
-      return (getters.feedList as FeedItem[]).find(
+    selected(state) {
+      const all = state.feeds
+        .reduce((all, feed) => {
+          const feedItems = feed.items.map(
+            (item) => ({ ...item, image: feed.image } as FeedItem)
+          );
+          return [...all, ...feedItems];
+        }, [] as FeedItem[]);
+      return (all as FeedItem[]).find(
         (item) => item.guid === state.selectedItemId
       );
     },

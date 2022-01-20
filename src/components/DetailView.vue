@@ -29,7 +29,7 @@ import Vue from "vue";
 import { Prop } from "vue-property-decorator";
 import UserInfo from "@/components/UserInfo.vue";
 import LazyImage from "@/components/LazyImage.vue";
-import { FeedItem } from "@/store/store";
+import { FeedItem } from "@/types";
 
 @Component({
   components: { LazyImage, UserInfo },

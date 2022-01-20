@@ -29,13 +29,13 @@
 <script lang="ts">
 import Component from "vue-class-component";
 import Vue from "vue";
-import { FeedItem, PodcastSource } from "@/store/store";
 import List from "@/components/List.vue";
 import ListItem from "@/components/ListItem.vue";
 import ListTitle from "@/components/ListTitle.vue";
 import ListSubTitle from "@/components/ListSubTitle.vue";
 import FeedToggle from "@/components/FeedToggle.vue";
 import FeedFilter from "@/components/FeedFilter.vue";
+import { FeedItem, PodcastSource } from "@/types";
 
 /**
  * Mmmmmh Burger!
@@ -70,7 +70,7 @@ export default class FeedList extends Vue {
   }
 
   select(item: FeedItem): void {
-    if (this.selected !== item) {
+    if (this.selected && this.selected.guid !== item.guid) {
       this.$router.push({
         name: "details",
         params: {

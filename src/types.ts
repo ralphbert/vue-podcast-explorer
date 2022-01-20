@@ -1,3 +1,19 @@
+import Parser from "rss-parser";
+
+export type Feed = Parser.Output<unknown>;
+export type FeedItem = Parser.Item & { image: { url: string } };
+
+export interface PodcastSource {
+  name: string;
+  feed: string;
+}
+
+export interface FeedToggleItem {
+  title: string;
+  id: string;
+  active: boolean;
+}
+
 export interface Post {
   userId: number;
   id: number;

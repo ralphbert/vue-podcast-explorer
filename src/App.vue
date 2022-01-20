@@ -17,7 +17,7 @@ import BaseLayout from "@/layouts/BaseLayout.vue";
 import DetailView from "@/components/DetailView.vue";
 import FeedList from "@/components/FeedList.vue";
 import Tint from "@/components/Tint.vue";
-import { FeedItem } from "@/store/store";
+import { FeedItem } from "@/types";
 
 @Component({
   components: {
