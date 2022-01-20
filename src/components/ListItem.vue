@@ -8,6 +8,7 @@
     <div class="body">
       <slot></slot>
     </div>
+    <div v-if="markUnread" class="unread-marker"></div>
   </div>
 </template>
 
@@ -32,6 +33,11 @@ export default class ListItem extends Vue {
     default: false,
   })
   active: boolean | undefined;
+
+  @Prop({
+    default: false,
+  })
+  markUnread: boolean | undefined;
 }
 </script>
 
@@ -72,5 +78,13 @@ export default class ListItem extends Vue {
 .body {
   flex: 1;
   min-width: 0;
+}
+
+.unread-marker {
+  display: block;
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: var(--border-radius-full);
+  background-color: var(--primary);
 }
 </style>

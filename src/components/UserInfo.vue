@@ -1,9 +1,9 @@
 <template>
   <div class="user-info">
-    <ImageRound :src="user.image" :size="'4rem'" />
+    <ImageRound :src="image" :size="'4rem'" />
     <div class="body">
-      <div class="text-sm">Written by</div>
-      <div class="text-bold">{{ user.name }}</div>
+      <div class="text-sm">{{ title }}</div>
+      <div class="text-bold">{{ name }}</div>
     </div>
   </div>
 </template>
@@ -12,14 +12,15 @@
 import Component from "vue-class-component";
 import Vue from "vue";
 import { Prop } from "vue-property-decorator";
-import { User } from "@/types";
 import ImageRound from "@/components/ImageRound.vue";
 
 @Component({
   components: { ImageRound },
 })
 export default class UserInfo extends Vue {
-  @Prop() user: User | undefined;
+  @Prop() name: string | undefined;
+  @Prop() image: string | undefined;
+  @Prop({ default: "Written by" }) title!: string;
 }
 </script>
 

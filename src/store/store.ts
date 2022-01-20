@@ -18,9 +18,10 @@ export interface StoreModel {
   search: string;
   shownFeeds: string[];
   feeds: Feed[];
-  read: number[];
+  read: string[];
   loading: boolean;
   error: Error | null;
+  selectedItemId: string | null;
 }
 
 export interface FeedToggleItem {
@@ -53,6 +54,7 @@ export const store = new Vuex.Store<StoreModel>({
     error: null,
     search: "",
     shownFeeds: [],
+    selectedItemId: null,
   },
   mutations: {
     setLoading(state, loading) {
@@ -87,6 +89,10 @@ export const store = new Vuex.Store<StoreModel>({
 
       state.shownFeeds = Array.from(feedIds);
     },
+    select(state, itemId: string) {
+      state.selectedItemId = itemId;
+      state.read = [...state.read, itemId || ""];
+    },
   },
   actions: {
     loadFeeds(context) {
@@ -114,6 +120,9 @@ export const store = new Vuex.Store<StoreModel>({
     toggleFeed(context, feedId: string) {
       context.commit("toggleFeed", feedId);
     },
+    select(context, itemId: string) {
+      context.commit("select", itemId);
+    },
   },
   getters: {
     sources: (state) => state.sources,
@@ -121,7 +130,13 @@ export const store = new Vuex.Store<StoreModel>({
     error: (state) => state.error,
     loading: (state) => state.loading,
     feeds: (state) => state.feeds,
-    selectedFeedItems(state): FeedItem[] {
+    readItems: (state) => state.read,
+    selected(state, getters) {
+      return (getters.feedList as FeedItem[]).find(
+        (item) => item.guid === state.selectedItemId
+      );
+    },
+    feedList(state): FeedItem[] {
       return state.feeds
         .filter((feed) => state.shownFeeds.includes(feed.feedUrl || ""))
         .reduce((all, feed) => {
@@ -131,8 +146,8 @@ export const store = new Vuex.Store<StoreModel>({
           return [...all, ...feedItems];
         }, [] as FeedItem[]);
     },
-    filteredFeedItems(state, getters) {
-      let items: FeedItem[] = getters.selectedFeedItems;
+    filteredFeedList(state, getters) {
+      let items: FeedItem[] = getters.feedList;
 
       if (state.search) {
         const term = state.search.toLowerCase();

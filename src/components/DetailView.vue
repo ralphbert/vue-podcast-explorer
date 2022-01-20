@@ -1,14 +1,24 @@
 <template>
-  <div class="detail-view">
-    <UserInfo class="meta" :user="post.user"></UserInfo>
+  <div class="detail-view" v-if="feedItem">
+    <UserInfo
+      class="meta"
+      :name="feedItem.itunes.author"
+      :image="feedItem.image.url"
+      title="Created by"
+    ></UserInfo>
     <header>
-      <LazyImage :ratio="600 / 1024" :src="post.image"></LazyImage>
-      <h1 class="text-center">{{ post.title }}</h1>
+      <LazyImage :ratio="600 / 1024" :src="feedItem.image.url"></LazyImage>
+      <h1 class="text-center">{{ feedItem.title }}</h1>
     </header>
     <section class="inner">
       <div class="body">
-        <p>{{ post.body }}</p>
+        <p>{{ feedItem.content }}</p>
       </div>
+
+      <audio controls :src="feedItem.enclosure.url">
+        Your browser does not support the
+        <code>audio</code> element.
+      </audio>
     </section>
   </div>
 </template>
@@ -17,15 +27,15 @@
 import Component from "vue-class-component";
 import Vue from "vue";
 import { Prop } from "vue-property-decorator";
-import { Post } from "@/types";
 import UserInfo from "@/components/UserInfo.vue";
 import LazyImage from "@/components/LazyImage.vue";
+import { FeedItem } from "@/store/store";
 
 @Component({
   components: { LazyImage, UserInfo },
 })
 export default class DetailView extends Vue {
-  @Prop() post: Post | undefined;
+  @Prop() feedItem: FeedItem | undefined;
 }
 </script>
 
@@ -33,10 +43,16 @@ export default class DetailView extends Vue {
 .detail-view {
   position: relative;
   flex: 1;
+  min-width: 0;
   background-color: #fff;
   min-height: 100%;
   border-radius: var(--border-radius);
   overflow: hidden;
+}
+
+audio {
+  width: 100%;
+  display: block;
 }
 
 h1 {
