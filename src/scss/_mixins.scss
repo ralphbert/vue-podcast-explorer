@@ -1,5 +1,3 @@
-@import "../scss/variables";
-
 @mixin inset($value: 0) {
   top: $value;
   left: $value;

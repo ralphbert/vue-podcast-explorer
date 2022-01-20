@@ -1,3 +1,5 @@
+@import "./_variables.scss";
+
 :root {
   font-size: 16px;
 
@@ -19,6 +21,8 @@
 
   --font-serif: Georgia, Time New Roman, serif;
   --font-sans: Helvetica, Arial, sans-serif;
+  --screen-size-lg: #{$screen-size-lg};
+  --screen-size-md: #{$screen-size-md};
 }
 
 body {

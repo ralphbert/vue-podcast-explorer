@@ -2,7 +2,7 @@
   <div class="detail-view">
     <UserInfo class="meta" :user="post.user"></UserInfo>
     <header>
-      <img class="img-fluid" :src="post.image" />
+      <LazyImage :ratio="600 / 1024" :src="post.image"></LazyImage>
       <h1 class="text-center">{{ post.title }}</h1>
     </header>
     <section class="inner">
@@ -19,9 +19,10 @@ import Vue from "vue";
 import { Prop } from "vue-property-decorator";
 import { Post } from "@/types";
 import UserInfo from "@/components/UserInfo.vue";
+import LazyImage from "@/components/LazyImage.vue";
 
 @Component({
-  components: { UserInfo }
+  components: { LazyImage, UserInfo },
 })
 export default class DetailView extends Vue {
   @Prop() post: Post | undefined;
@@ -57,5 +58,6 @@ h1 {
   position: absolute;
   top: 1rem;
   right: 1rem;
+  z-index: 1;
 }
 </style>

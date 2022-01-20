@@ -24,11 +24,11 @@
 </template>
 
 <script lang="ts">
+import { dummyPosts } from "@/mock/dummy-posts";
 import { Component, Vue } from "vue-property-decorator";
 import BaseLayout from "@/layouts/BaseLayout.vue";
 import List from "@/components/List.vue";
 import ListItem from "@/components/ListItem.vue";
-import { dummyPosts } from "@/mock/dummy-posts";
 import { Post } from "@/types";
 import DetailView from "@/components/DetailView.vue";
 import ListTitle from "@/components/ListTitle.vue";
@@ -44,7 +44,7 @@ import Tint from "@/components/Tint.vue";
     List,
     BaseLayout,
     Tint,
-  }
+  },
 })
 export default class App extends Vue {
   posts: Post[] = dummyPosts;
@@ -52,8 +52,8 @@ export default class App extends Vue {
 }
 </script>
 
-<style>
-@import "./scss/base.scss";
+<style lang="scss">
+@import "./scss/base";
 
 html,
 body {

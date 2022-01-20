@@ -1,11 +1,11 @@
 <template>
   <div
-    class="list-item" :class="{ 'cursor-pointer clickable': clickable, 'active': active }"
+    class="list-item"
+    :class="{ 'cursor-pointer clickable': clickable, active: active }"
     @click="clickable && $emit('click', $event)"
   >
     <ImageRound size="4rem" :src="image"></ImageRound>
     <div class="body">
-      <ListTitle>{{ title }}</ListTitle>
       <slot></slot>
     </div>
   </div>
@@ -19,12 +19,12 @@ import ListTitle from "@/components/ListTitle.vue";
 import ImageRound from "@/components/ImageRound.vue";
 
 @Component({
-  components: { ImageRound, ListTitle }
+  components: { ImageRound, ListTitle },
 })
 export default class ListItem extends Vue {
   @Prop() image: string | undefined;
   @Prop({
-    default: false
+    default: false,
   })
   clickable: boolean | undefined;
 
@@ -36,6 +36,7 @@ export default class ListItem extends Vue {
 </script>
 
 <style scoped lang="scss">
+@import "../scss/variables";
 @import "../scss/mixins";
 
 .list-item {

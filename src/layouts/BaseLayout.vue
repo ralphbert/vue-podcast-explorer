@@ -21,10 +21,31 @@ import { Component, Vue } from "vue-property-decorator";
 import BurgerButton from "@/components/BurgerButton.vue";
 
 @Component({
-  components: { BurgerButton }
+  components: { BurgerButton },
 })
 export default class BaseLayout extends Vue {
   visible = false;
+  media: MediaQueryList | undefined;
+
+  mediaQueryUpdate(): void {
+    // used to hide menu again when the screen size reached md
+    if (this.media && !this.media.matches) {
+      this.visible = false;
+    }
+  }
+
+  mounted(): void {
+    // reading the md breakpoint to set up a match-media query
+    const bodyStyles = window.getComputedStyle(document.body);
+    const value = bodyStyles.getPropertyValue("--screen-size-md");
+    this.media = window.matchMedia("(max-width: " + value + ")");
+    this.media.addEventListener("change", this.mediaQueryUpdate.bind(this));
+  }
+
+  beforeDestroy(): void {
+    // detaching the event listener again
+    this.media?.removeEventListener("change", this.mediaQueryUpdate.bind(this));
+  }
 }
 </script>
 
@@ -105,5 +126,4 @@ main {
     width: 100%;
   }
 }
-
 </style>

@@ -16,7 +16,7 @@ import { User } from "@/types";
 import ImageRound from "@/components/ImageRound.vue";
 
 @Component({
-  components: { ImageRound }
+  components: { ImageRound },
 })
 export default class UserInfo extends Vue {
   @Prop() user: User | undefined;

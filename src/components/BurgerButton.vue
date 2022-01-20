@@ -14,8 +14,7 @@ import Vue from "vue";
  * Mmmmmh Burger!
  */
 @Component({})
-export default class BurgerButton extends Vue {
-}
+export default class BurgerButton extends Vue {}
 </script>
 
 <style scoped lang="scss">
