@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>HOAXILLA®</title>
+	<atom:link href="https://hoaxilla.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoaxilla.com</link>
+	<description>Der skeptische Podcast</description>
+	<lastBuildDate>Fri, 31 Dec 2021 22:33:01 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://hoaxilla.com/wp-content/uploads/2019/07/cropped-logo_square_small-2-32x32.jpg</url>
+	<title>HOAXILLA®</title>
+	<link>https://hoaxilla.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/8.7.9" mode="advanced" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Der skeptische Podcast aus Münster</itunes:summary>
+	<itunes:author>HOAXILLA®</itunes:author>
+	<itunes:image href="https://hoaxilla.com/wp-content/plugins/powerpress/itunes_default.jpg" />
+	<itunes:owner>
+		<itunes:name>HOAXILLA®</itunes:name>
+		<itunes:email>info@hoaxilla.de</itunes:email>
+	</itunes:owner>
+	<managingEditor>info@hoaxilla.de (HOAXILLA®)</managingEditor>
+	<copyright>Copyright &#xA9; Hoaxilla 2011</copyright>
+	<itunes:subtitle>Der skeptische Podcast</itunes:subtitle>
+	<image>
+		<title>HOAXILLA®</title>
+		<url>http://www.hoaxilla.de/podcast/cover.jpg</url>
+		<link>https://hoaxilla.com</link>
+	</image>
+	<item>
+		<title>Jahresabschluss 2021</title>
+		<link>https://hoaxilla.com/jahresabschluss-2021/</link>
+					<comments>https://hoaxilla.com/jahresabschluss-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoaxmaster]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2021 15:06:41 +0000</pubDate>
+				<category><![CDATA[Episoden]]></category>
+		<category><![CDATA[Jahresabschluss]]></category>
+		<guid isPermaLink="false">https://hoaxilla.com/?p=7350</guid>
+
+					<description><![CDATA[Zum Ende das Jahres haben wir das unglaublich ereignisreichsten Jahr 2021 noch einmal Revue passieren lassen und einen kleinen Ausblick auf das Jahr 2022 gegeben. Vielen Dank für eure Unterstützung, die das Jahr 2021 erneut zum erfolgreichsten für HOAXILLA gemacht hat. &#8222;Immer schön skeptisch bleiben!&#8220; Wir hören uns nächstes Jahr!]]></description>
+										<content:encoded><![CDATA[<p><a href="http://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1.jpg"><img loading="lazy" class="alignleft size-medium wp-image-6734" src="http://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1-300x200.jpg" alt="" width="300" height="200" srcset="https://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1-300x200.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1-768x512.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1-120x80.jpg 120w, https://hoaxilla.com/wp-content/uploads/2021/05/team003-1024x682-1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>Zum Ende das Jahres haben wir das unglaublich ereignisreichsten Jahr 2021 noch einmal Revue passieren lassen und einen kleinen Ausblick auf das Jahr 2022 gegeben.</p>
+<p>Vielen Dank für eure Unterstützung, die das Jahr 2021 erneut zum erfolgreichsten für HOAXILLA gemacht hat.</p>
+<p>&#8222;Immer schön skeptisch bleiben!&#8220;</p>
+<p>Wir hören uns nächstes Jahr!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoaxilla.com/jahresabschluss-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.hoaxilla.com/hoaxilla/hoaxcast_abschluss2021.mp3" length="8953262" type="audio/mpeg" />
+
+			<itunes:subtitle>Zum Ende das Jahres haben wir das unglaublich ereignisreichsten Jahr 2021 noch einmal Revue passieren lassen und einen kleinen Ausblick auf das Jahr 2022 gegeben. Vielen Dank für eure Unterstützung, die das Jahr 2021 erneut zum erfolgreichsten für HOAX...</itunes:subtitle>
+		<itunes:summary>Zum Ende das Jahres haben wir das unglaublich ereignisreichsten Jahr 2021 noch einmal Revue passieren lassen und einen kleinen Ausblick auf das Jahr 2022 gegeben. Vielen Dank für eure Unterstützung, die das Jahr 2021 erneut zum erfolgreichsten für HOAXILLA gemacht hat. „Immer schön skeptisch bleiben!“ Wir hören uns nächstes Jahr!</itunes:summary>
+		<itunes:author>HOAXILLA®</itunes:author>
+		<itunes:duration>14:52</itunes:duration>
+	</item>
+		<item>
+		<title>Hoaxilla #290 &#8211; Wie waren die Germanen?</title>
+		<link>https://hoaxilla.com/hoaxilla-290-germanen/</link>
+					<comments>https://hoaxilla.com/hoaxilla-290-germanen/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoaxmaster]]></dc:creator>
+		<pubDate>Fri, 10 Dec 2021 13:54:51 +0000</pubDate>
+				<category><![CDATA[Episoden]]></category>
+		<category><![CDATA[Archäologie]]></category>
+		<category><![CDATA[Germanen]]></category>
+		<category><![CDATA[Geschichte]]></category>
+		<category><![CDATA[Mara]]></category>
+		<category><![CDATA[Rudolf Simek]]></category>
+		<category><![CDATA[Tommy Krappweis]]></category>
+		<guid isPermaLink="false">https://hoaxilla.com/?p=7320</guid>
+
+					<description><![CDATA[Gemeinsam mit Prof. Rudolf Simek und Tommy Krappweis sind wir in dieser Folge der Frage nachgegangen: &#8222;Wie waren eigentlich die alten Germanen wirklich?&#8220; Dabei haben wir festgestellt, dass man diese Frage gar nicht so einfach beantworten kann und das wir inzwischen von vielen unserer liebgewonnen Vorstellungen Abschied nehmen müssen. Zudem thematisieren wir die Problematik, dass &#8230; <p class="link-more"><a href="https://hoaxilla.com/hoaxilla-290-germanen/" class="more-link"><span class="screen-reader-text">„Hoaxilla #290 &#8211; Wie waren die Germanen?“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://hoaxilla.com/wp-content/uploads/2021/12/rudy.jpg"><img loading="lazy" class="alignleft wp-image-7323 size-medium" title="Diane Krauss (DianeAnna), CC BY-SA 4.0, via Wikimedia Commons" src="http://hoaxilla.com/wp-content/uploads/2021/12/rudy-236x300.jpg" alt="" width="236" height="300" srcset="https://hoaxilla.com/wp-content/uploads/2021/12/rudy-236x300.jpg 236w, https://hoaxilla.com/wp-content/uploads/2021/12/rudy.jpg 599w" sizes="(max-width: 236px) 100vw, 236px" /></a>Gemeinsam mit <a href="https://de.wikipedia.org/wiki/Rudolf_Simek" target="_blank" rel="noopener">Prof. Rudolf Simek</a> und <a href="https://www.facebook.com/tommy.krappweis/" target="_blank" rel="noopener">Tommy Krappweis</a> sind wir in dieser Folge der Frage nachgegangen: &#8222;Wie waren eigentlich die alten Germanen wirklich?&#8220;</p>
+<p>Dabei haben wir festgestellt, dass man diese Frage gar nicht so einfach beantworten kann und das wir inzwischen von vielen unserer liebgewonnen Vorstellungen Abschied nehmen müssen.</p>
+<p>Zudem thematisieren wir die Problematik, dass die Germanen seit Jahrhunderten für politische Zwecke vereinnahmt worden sind.<a href="https://www.facebook.com/tommy.krappweis/" target="_blank" rel="noopener"><img loading="lazy" class="alignright wp-image-7324 size-medium" title="Quelle: https://hearon.de/creator/tommy-krappweis/" src="http://hoaxilla.com/wp-content/uploads/2021/12/tommy-240x300.jpg" alt="" width="240" height="300" srcset="https://hoaxilla.com/wp-content/uploads/2021/12/tommy-240x300.jpg 240w, https://hoaxilla.com/wp-content/uploads/2021/12/tommy-768x960.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/12/tommy.jpg 800w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p><a href="https://amzn.to/3rQvH3j" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-7322" title="zur CD-Box (Affiliate Link)" src="http://hoaxilla.com/wp-content/uploads/2021/12/cdbox-150x150.jpg" alt="" width="250" height="248" srcset="https://hoaxilla.com/wp-content/uploads/2021/12/cdbox-150x150.jpg 150w, https://hoaxilla.com/wp-content/uploads/2021/12/cdbox-300x297.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/12/cdbox-1024x1015.jpg 1024w, https://hoaxilla.com/wp-content/uploads/2021/12/cdbox-768x762.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/12/cdbox-100x100.jpg 100w, https://hoaxilla.com/wp-content/uploads/2021/12/cdbox.jpg 1429w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<p>Diese Episode haben wir anlässlich der Premiere der ersten CD Box zur <a href="https://amzn.to/3rQvH3j" target="_blank" rel="noopener">Mara-Hörspielreihe</a>* aufgenommen und ihr könnt fünf Exemplare der Box gewinnen. Dafür schickt eure Gewinnspielmail mit dem richtigen Stichwort bis zum 24.12.2021, 23:59 Uhr an <a href="mailto:info@hoaxilla.com" target="_blank" rel="noopener"><em>info(at)hoaxilla(dot)com</em></a>.</p>
+<p>*Affiliate Link</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoaxilla.com/hoaxilla-290-germanen/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		<enclosure url="https://media.hoaxilla.com/hoaxilla/hoaxcast290_germanen.mp3" length="49299279" type="audio/mpeg" />
+
+			<itunes:subtitle>Gemeinsam mit Prof. Rudolf Simek und Tommy Krappweis sind wir in dieser Folge der Frage nachgegangen: „Wie waren eigentlich die alten Germanen wirklich?“ Dabei haben wir festgestellt, dass man diese Frage gar nicht so einfach beantworten kann und das w...</itunes:subtitle>
+		<itunes:summary>Gemeinsam mit Prof. Rudolf Simek und Tommy Krappweis sind wir in dieser Folge der Frage nachgegangen: „Wie waren eigentlich die alten Germanen wirklich?“ Dabei haben wir festgestellt, dass man diese Frage gar nicht so einfach beantworten kann und das wir inzwischen von vielen unserer liebgewonnen Vorstellungen Abschied nehmen müssen. Zudem thematisieren wir die Problematik, dass … „Hoaxilla #290 – Wie waren die Germanen?“ weiterlesen</itunes:summary>
+		<itunes:author>HOAXILLA®</itunes:author>
+		<itunes:duration>1:22:06</itunes:duration>
+	</item>
+		<item>
+		<title>WildMics Special #78 – Corona Update #7</title>
+		<link>https://hoaxilla.com/wildmics-special-78-corona7/</link>
+					<comments>https://hoaxilla.com/wildmics-special-78-corona7/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoaxmaster]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 14:59:18 +0000</pubDate>
+				<category><![CDATA[WildMics Special]]></category>
+		<category><![CDATA[Booster]]></category>
+		<category><![CDATA[Carsten Watzl]]></category>
+		<category><![CDATA[Corona]]></category>
+		<category><![CDATA[Holm Gero Hümmler]]></category>
+		<category><![CDATA[Impfung]]></category>
+		<category><![CDATA[Martin Moder]]></category>
+		<category><![CDATA[Omikron]]></category>
+		<category><![CDATA[Tommy Krappweis]]></category>
+		<guid isPermaLink="false">https://hoaxilla.com/?p=7312</guid>
+
+					<description><![CDATA[Das 78. WildMics-Special war erneut ein Corona Update. Das nunmehr siebte! Wie gefährlich ist die Omikron-Variante? Wann, wie und mit was Boostern? Und werden wir nun bis zum Ende aller Tage boostern müssen? Darüber diskutierten wir mit Holm Hümmler, Tommy Krappweis, Martin Moder und Carsten Watzl.&#160; Diese Sendung wurde am 30.11.2021 aufgezeichnet. Eine gemeinsame Aktion &#8230; <p class="link-more"><a href="https://hoaxilla.com/wildmics-special-78-corona7/" class="more-link"><span class="screen-reader-text">„WildMics Special #78 – Corona Update #7“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://hoaxilla.com/wp-content/uploads/2021/12/corona07.jpg"><img loading="lazy" class="alignleft size-medium wp-image-7313" src="http://hoaxilla.com/wp-content/uploads/2021/12/corona07-300x300.jpg" alt="" width="300" height="300" srcset="https://hoaxilla.com/wp-content/uploads/2021/12/corona07-300x300.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/12/corona07-150x150.jpg 150w, https://hoaxilla.com/wp-content/uploads/2021/12/corona07-768x766.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/12/corona07-100x100.jpg 100w, https://hoaxilla.com/wp-content/uploads/2021/12/corona07.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>Das 78. <a href="https://twitch.tv/wildmics" target="_blank" rel="noopener">WildMics</a>-Special war erneut ein Corona Update. Das nunmehr siebte!</p>
+<p><span style="font-size: revert;">Wie gefährlich ist die Omikron-Variante? Wann, wie und mit was Boostern? Und werden wir nun bis zum Ende aller Tage boostern müssen?</span></p>
+<p><span style="font-size: revert;">Darüber diskutierten wir mit </span><a style="font-size: revert;" href="https://quantenquark.com/blog/author/admin/" target="_blank" rel="noopener">Holm Hümmler</a><span style="font-size: revert;">, <a href="https://www.facebook.com/tommy.krappweis/" target="_blank" rel="noopener">Tommy Krappweis</a>, <a href="https://www.martinmoder.at/" target="_blank" rel="noopener">Martin Moder</a> und <a href="https://www.ifado.de/immunologie/mitarbeiter/carsten-watzl/" target="_blank" rel="noopener">Carsten Watzl</a>.&nbsp;</span></p>
+<p>Diese Sendung wurde am 30.11.2021 aufgezeichnet.</p>
+<p>Eine gemeinsame Aktion von&nbsp;<a href="http://europainfo.at/" target="_blank" rel="noopener">Europe Direct Österreich</a>, den Europäischen Föderalisten Österreich (<a href="http://efb.at/" target="_blank" rel="noopener">EFB</a>/<a href="http://jef.at/" target="_blank" rel="noopener">JEF</a>) und&nbsp;<a href="http://r-9.at/" target="_blank" rel="noopener">R9 Regional TV</a>&nbsp;unter Projektproduktion von Daniel Gerer in Zusammenarbeit mit der&nbsp;<a href="http://4eu.media/" target="_blank" rel="noopener">Europäischen Kommission (DG Connect)</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoaxilla.com/wildmics-special-78-corona7/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		<enclosure url="https://media.hoaxilla.com/hoaxilla/hoaxcast_special_corona07.mp3" length="74412342" type="audio/mpeg" />
+
+			<itunes:subtitle>Das 78. WildMics-Special war erneut ein Corona Update. Das nunmehr siebte! Wie gefährlich ist die Omikron-Variante? Wann, wie und mit was Boostern? Und werden wir nun bis zum Ende aller Tage boostern müssen? Darüber diskutierten wir mit Holm Hümmler,</itunes:subtitle>
+		<itunes:summary>Das 78. WildMics-Special war erneut ein Corona Update. Das nunmehr siebte! Wie gefährlich ist die Omikron-Variante? Wann, wie und mit was Boostern? Und werden wir nun bis zum Ende aller Tage boostern müssen? Darüber diskutierten wir mit Holm Hümmler, Tommy Krappweis, Martin Moder und Carsten Watzl.  Diese Sendung wurde am 30.11.2021 aufgezeichnet. Eine gemeinsame Aktion … „WildMics Special #78 – Corona Update #7“ weiterlesen</itunes:summary>
+		<itunes:author>HOAXILLA®</itunes:author>
+		<itunes:duration>2:03:58</itunes:duration>
+	</item>
+		<item>
+		<title>Hoaxilla #289 &#8211; Die Zukunft von &#8222;Amerikas Gotteskriegern&#8220;</title>
+		<link>https://hoaxilla.com/hoaxilla-289-gotteskrieger/</link>
+					<comments>https://hoaxilla.com/hoaxilla-289-gotteskrieger/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoaxmaster]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 12:00:00 +0000</pubDate>
+				<category><![CDATA[Episoden]]></category>
+		<category><![CDATA[Annika Brockschmidt]]></category>
+		<category><![CDATA[Evangelikale]]></category>
+		<category><![CDATA[Lord Schmetterhemd]]></category>
+		<category><![CDATA[Politik]]></category>
+		<category><![CDATA[Tommy Krappweis]]></category>
+		<category><![CDATA[Trump]]></category>
+		<category><![CDATA[USA]]></category>
+		<guid isPermaLink="false">https://hoaxilla.com/?p=7272</guid>
+
+					<description><![CDATA[In dieser Folge sprachen wir mit Annika Brockschmidt nicht nur über ihr neues Buch &#8222;Amerikas Gotteskrieger&#8220;* sondern warfen auch gemeinsam einen Blick in die Zukunft der Vereinigten Staaten von Amerika. Wird Donald Trump noch einmal für das Präsidentenamt kandidieren? Wohin werden die Republikaner die USA steuern und warum könnten die Wahlen 2024 eine fundamentale Gefahr &#8230; <p class="link-more"><a href="https://hoaxilla.com/hoaxilla-289-gotteskrieger/" class="more-link"><span class="screen-reader-text">„Hoaxilla #289 &#8211; Die Zukunft von &#8222;Amerikas Gotteskriegern&#8220;“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://hoaxilla.com/wp-content/uploads/2021/11/annika.jpg"><img loading="lazy" class="alignleft wp-image-7266 size-medium" title="(c) Rolf Brockschmidt" src="http://hoaxilla.com/wp-content/uploads/2021/11/annika-225x300.jpg" alt="" width="225" height="300" srcset="https://hoaxilla.com/wp-content/uploads/2021/11/annika-225x300.jpg 225w, https://hoaxilla.com/wp-content/uploads/2021/11/annika-767x1024.jpg 767w, https://hoaxilla.com/wp-content/uploads/2021/11/annika-768x1026.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/11/annika-1150x1536.jpg 1150w, https://hoaxilla.com/wp-content/uploads/2021/11/annika.jpg 1348w" sizes="(max-width: 225px) 100vw, 225px" /></a>In dieser Folge sprachen wir mit Annika Brockschmidt nicht nur über ihr neues Buch <a href="https://amzn.to/3nBp9TC" target="_blank" rel="noopener">&#8222;Amerikas Gotteskrieger&#8220;*</a> sondern warfen auch gemeinsam einen Blick in die Zukunft der Vereinigten Staaten von Amerika.</p>
+<p>Wird Donald Trump noch einmal für das Präsidentenamt kandidieren? Wohin werden die Republikaner die USA steuern und warum könnten die Wahlen 2024 eine fundamentale Gefahr für die Demokratie in den USA bedeuten?</p>
+<p><a href="https://amzn.to/3nBp9TC" target="_blank" rel="noopener"><img loading="lazy" class="alignright wp-image-7284 size-medium" src="http://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-193x300.jpg" alt="" width="193" height="300" srcset="https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-193x300.jpg 193w, https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-658x1024.jpg 658w, https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-768x1195.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-987x1536.jpg 987w, https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger-1316x2048.jpg 1316w, https://hoaxilla.com/wp-content/uploads/2021/11/gotteskrieger.jpg 1400w" sizes="(max-width: 193px) 100vw, 193px" /></a>Wir verlosen drei Exemplare von Annikas Buch. Dafür schickt eure Gewinnspielmail mit dem richtigen Stichwort bis zum 10.12.2021, 23:59 Uhr an <a href="mailto:info@hoaxilla.com" target="_blank" rel="noopener"><em>info(at)hoaxilla(dot)com</em></a>.&nbsp;</p>
+<p><a href="https://amzn.to/3cx59Lx" target="_blank" rel="noopener"><img loading="lazy" class="alignright wp-image-7274 size-medium" src="http://hoaxilla.com/wp-content/uploads/2021/11/box-300x264.jpg" alt="" width="300" height="264" srcset="https://hoaxilla.com/wp-content/uploads/2021/11/box-300x264.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/11/box-1024x902.jpg 1024w, https://hoaxilla.com/wp-content/uploads/2021/11/box-768x676.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/11/box.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>Und wer eine von fünf Hörspielboxen des wunderbaren Hörspiels <a href="https://amzn.to/3cx59Lx" target="_blank" rel="noopener">&#8222;Lord Schmetterhemd&#8220;*</a> gewinnen möchte, sende ebenfalls eine Mail mit dem richtigen Betreff bis zum 10.12.2021, 23:59 Uhr an <a href="mailto:info@hoaxilla.com" target="_blank" rel="noopener"><em>info(at)hoaxilla(dot)com</em></a>.<br><a href="http://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd.jpg"><img loading="lazy" class="alignnone size-large wp-image-7275" src="http://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd-1024x576.jpg" alt="" width="525" height="295" srcset="https://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd-1024x576.jpg 1024w, https://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd-300x169.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd-768x432.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd-1536x864.jpg 1536w, https://hoaxilla.com/wp-content/uploads/2021/11/schmetterhemd.jpg 1920w" sizes="(max-width: 525px) 100vw, 525px" /></a></p>
+<p>*Affiliate Links</p>
+<p></p>
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoaxilla.com/hoaxilla-289-gotteskrieger/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		<enclosure url="https://media.hoaxilla.com/hoaxilla/hoaxcast289_gotteskrieger.mp3" length="67523303" type="audio/mpeg" />
+
+			<itunes:subtitle>In dieser Folge sprachen wir mit Annika Brockschmidt nicht nur über ihr neues Buch „Amerikas Gotteskrieger“* sondern warfen auch gemeinsam einen Blick in die Zukunft der Vereinigten Staaten von Amerika. Wird Donald Trump noch einmal für das Präsidenten...</itunes:subtitle>
+		<itunes:summary>In dieser Folge sprachen wir mit Annika Brockschmidt nicht nur über ihr neues Buch „Amerikas Gotteskrieger“* sondern warfen auch gemeinsam einen Blick in die Zukunft der Vereinigten Staaten von Amerika. Wird Donald Trump noch einmal für das Präsidentenamt kandidieren? Wohin werden die Republikaner die USA steuern und warum könnten die Wahlen 2024 eine fundamentale Gefahr … „Hoaxilla #289 – Die Zukunft von „Amerikas Gotteskriegern““ weiterlesen</itunes:summary>
+		<itunes:author>HOAXILLA®</itunes:author>
+		<itunes:duration>1:52:29</itunes:duration>
+	</item>
+		<item>
+		<title>WildMics Special #77 – Impfpflicht &#8211; oder nicht?</title>
+		<link>https://hoaxilla.com/wildmics-special-77-impfpflicht/</link>
+					<comments>https://hoaxilla.com/wildmics-special-77-impfpflicht/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoaxmaster]]></dc:creator>
+		<pubDate>Wed, 24 Nov 2021 11:57:09 +0000</pubDate>
+				<category><![CDATA[WildMics Special]]></category>
+		<category><![CDATA[Bernd Harder]]></category>
+		<category><![CDATA[Corona]]></category>
+		<category><![CDATA[Florian Aigner]]></category>
+		<category><![CDATA[Holm Gero Hümmler]]></category>
+		<category><![CDATA[Impfpflicht]]></category>
+		<category><![CDATA[Lydia Benecke]]></category>
+		<category><![CDATA[Pandemie]]></category>
+		<category><![CDATA[Tommy Krappweis]]></category>
+		<guid isPermaLink="false">https://hoaxilla.com/?p=7301</guid>
+
+					<description><![CDATA[Im 77. WildMics-Special wollten wir gemeinsam mit Tommy Krappweis über eine mögliche Impfpflicht sprechen. Was sind die Vor- und Nachteile einer Impfpflicht? Gäbe es eine Alternative, um die pandemische Situation zu entspannen und wie kann eine solche Impfpflicht überhaupt aussehen?&#160; An der angeregten Diskussion mit viel &#8222;Für und Wider&#8220; waren Lydia Benecke, Florian Aigner, Bernd &#8230; <p class="link-more"><a href="https://hoaxilla.com/wildmics-special-77-impfpflicht/" class="more-link"><span class="screen-reader-text">„WildMics Special #77 – Impfpflicht &#8211; oder nicht?“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://hoaxilla.com/wp-content/uploads/2021/11/impfen.jpg"><img loading="lazy" class="alignleft size-medium wp-image-7302" src="http://hoaxilla.com/wp-content/uploads/2021/11/impfen-300x298.jpg" alt="" width="300" height="298" srcset="https://hoaxilla.com/wp-content/uploads/2021/11/impfen-300x298.jpg 300w, https://hoaxilla.com/wp-content/uploads/2021/11/impfen-150x150.jpg 150w, https://hoaxilla.com/wp-content/uploads/2021/11/impfen-768x764.jpg 768w, https://hoaxilla.com/wp-content/uploads/2021/11/impfen-100x100.jpg 100w, https://hoaxilla.com/wp-content/uploads/2021/11/impfen.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>Im 77. <a href="https://twitch.tv/wildmics" target="_blank" rel="noopener">WildMics</a>-Special wollten wir gemeinsam mit <a href="https://www.facebook.com/tommy.krappweis/" target="_blank" rel="noopener">Tommy Krappweis</a> über eine mögliche Impfpflicht sprechen.</p>
+<p><span style="font-size: revert;">Was sind die Vor- und Nachteile einer Impfpflicht? Gäbe es eine Alternative, um die pandemische Situation zu entspannen und wie kann eine solche Impfpflicht überhaupt aussehen?&nbsp;</span></p>
+<p><span style="font-size: revert;">An der angeregten Diskussion mit viel &#8222;Für und Wider&#8220; waren <a href="https://www.lydiabenecke.de/" target="_blank" rel="noopener">Lydia Benecke</a>, <a href="http://www.florianaigner.at/" target="_blank" rel="noopener">Florian Aigner</a>, </span><a style="font-size: revert;" href="https://blog.gwup.net/" target="_blank" rel="noopener">Bernd Harder</a><span style="font-size: revert;">&nbsp;und </span><a style="font-size: revert;" href="https://quantenquark.com/blog/author/admin/" target="_blank" rel="noopener">Holm Hümmler</a><span style="font-size: revert;">&nbsp;beteiligt.</span></p>
+<p>Diese Sendung wurde am 23.11.2021 aufgezeichnet.</p>
+<p>Eine gemeinsame Aktion von&nbsp;<a href="http://europainfo.at/" target="_blank" rel="noopener">Europe Direct Österreich</a>, den Europäischen Föderalisten Österreich (<a href="http://efb.at/" target="_blank" rel="noopener">EFB</a>/<a href="http://jef.at/" target="_blank" rel="noopener">JEF</a>) und&nbsp;<a href="http://r-9.at/" target="_blank" rel="noopener">R9 Regional TV</a>&nbsp;unter Projektproduktion von Daniel Gerer in Zusammenarbeit mit der&nbsp;<a href="http://4eu.media/" target="_blank" rel="noopener">Europäischen Kommission (DG Connect)</a>.</p>
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoaxilla.com/wildmics-special-77-impfpflicht/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		<enclosure url="https://media.hoaxilla.com/hoaxilla/hoaxcast_special_impfpflicht.mp3" length="84856948" type="audio/mpeg" />
+
+			<itunes:subtitle>Im 77. WildMics-Special wollten wir gemeinsam mit Tommy Krappweis über eine mögliche Impfpflicht sprechen. Was sind die Vor- und Nachteile einer Impfpflicht? Gäbe es eine Alternative, um die pandemische Situation zu entspannen und wie kann eine solche ...</itunes:subtitle>
+		<itunes:summary>Im 77. WildMics-Special wollten wir gemeinsam mit Tommy Krappweis über eine mögliche Impfpflicht sprechen. Was sind die Vor- und Nachteile einer Impfpflicht? Gäbe es eine Alternative, um die pandemische Situation zu entspannen und wie kann eine solche Impfpflicht überhaupt aussehen?  An der angeregten Diskussion mit viel „Für und Wider“ waren Lydia Benecke, Florian Aigner, Bernd … „WildMics Special #77 – Impfpflicht – oder nicht?“ weiterlesen</itunes:summary>
+		<itunes:author>HOAXILLA®</itunes:author>
+		<itunes:duration>2:21:22</itunes:duration>
+	</item>
+	</channel>
+</rss>

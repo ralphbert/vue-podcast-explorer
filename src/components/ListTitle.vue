@@ -13,5 +13,7 @@ export default class ListTitle extends Vue {}
 <style scoped>
 h4 {
   margin: 0 0 0.25rem;
+  word-break: break-word;
+  hyphens: auto;
 }
 </style>

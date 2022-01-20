@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:related="http://vemedio.com/dtds/atom/related-1.0.dtd"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Bits und so</title>
+	<atom:link href="http://www.bitsundso.de/feed/" rel="self" type="application/rss+xml" title="Bits und so" />
+	<link>http://www.bitsundso.de</link>
+	<description>Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München.</description>
+	<lastBuildDate>Tue, 18 Jan 2022 00:20:07 +0000</lastBuildDate>
+	<atom:link rel="related" type="text/html" href="http://www.bitsundso.de/shop" title="Bits und so Plus" related:apple-itunes-app="app-id=348762021, app-argument=x-bitsundso://shop" />
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<language>de</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<!-- podcast_generator="podPress/8.8" -->
+		<copyright>&#xA9;Undsoversum GmbH </copyright>
+		<managingEditor>shop@undsoversum.de (Undsoversum GmbH)</managingEditor>
+		<webMaster>shop@undsoversum.de(Undsoversum GmbH)</webMaster>
+		<category></category>
+		<ttl>1440</ttl>
+		<itunes:keywords>Bits und so, bitsundso, ipod, itunes, mac, iphone, ipad</itunes:keywords>
+		<itunes:subtitle>Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München.</itunes:subtitle>
+		<itunes:summary>Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München.</itunes:summary>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:category text="Technology"/>
+<itunes:category text="Technology">
+  <itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+  <itunes:category text="Gadgets"/>
+</itunes:category>
+		<itunes:owner>
+			<itunes:name>Undsoversum GmbH</itunes:name>
+			<itunes:email>shop@undsoversum.de</itunes:email>
+		</itunes:owner>
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.bitsundso.de/wp-content/uploads/2012/05/bitsundso1400.jpg" />
+		<image>
+			<url>http://www.bitsundso.de/wp-content/uploads/2012/01/bitsundso600.jpg</url>
+			<title>Bits und so</title>
+			<link>http://www.bitsundso.de</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<item>
+		<title>Bits und so #773 (Neukertje)</title>
+		<link>http://www.bitsundso.de/bus773/973/</link>
+		<comments>http://www.bitsundso.de/bus773/973/#comments</comments>
+		<pubDate>Tue, 18 Jan 2022 00:18:15 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apple VR]]></category>
+		<category><![CDATA[Granatapet]]></category>
+		<category><![CDATA[Heart Reports]]></category>
+		<category><![CDATA[IAP Stupid Idea]]></category>
+		<category><![CDATA[Ikea Shortcut]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Neukertje]]></category>
+		<category><![CDATA[Nightingale Blut]]></category>
+		<category><![CDATA[Seculution]]></category>
+		<category><![CDATA[Watch Focus]]></category>
+		<category><![CDATA[Watch Maps]]></category>
+		<category><![CDATA[Wordle]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=973</guid>
+		<description><![CDATA[Neukertje / IAP Stupid Idea / Wordle / Apple VR / Watch Focus / Watch Maps / Nightingale Blut / Ikea Shortcut / Heart Reports / Granatapet / Seculution / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li>Match Group, <a href="https://translate.google.com/?sl=nl&amp;tl=en&amp;text=Neukertje&amp;op=translate">Neukertje</a>, <a href="https://developer.apple.com/support/storekit-external-entitlement/">Apple FAQ</a>, Bumble</li>
+<li><a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a> + Kopierkatze</li>
+<li><a href="https://mobile.twitter.com/techemails/status/1481339345822879745">Tech Emails</a>, <a href="https://twitter.com/markpinc/status/1480556933027295234">Stupid Idea</a></li>
+<li>Apple VR</li>
+<li>LG <a href="https://rootmy.tv">RootMy.TV</a></li>
+<li><a href="https://www.apple.com/feedback/finalcutpro.html">FCPX</a>, <a href="https://www.apple.com/feedback/apple-fitness-plus/">Fitness+ Feedback</a></li>
+<li>Watch Focus, Watch Maps, <a href="http://www.workoutdoors.net">WalkOutDoors</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>alex: <a href="https://nightingalehealth.com">Nightingale Health</a>, <a href="https://www.ebay.de/sch/i.html?_nkw=eldon+card+blutgruppe">Blutgruppentest</a></li>
+<li>timo: <a href="https://www.ikea.com/de/de/p/tradfri-shortcut-button-weiss-40356381/">Ikea Shortcut Button</a>, <a href="https://www.ikea.com/de/de/cat/modulare-steckdosenleisten-48969/">Mehrfachsteckdosenpuzzle</a></li>
+<li>leo: <a href="https://apps.apple.com/de/app/heart-reports/id1448243870">Heart Reports</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 40 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://www.tug.org/mactex/morepackages.html">Basic LaTeX</a>, <a href="https://pages.uoregon.edu/koch/texshop/">TeXShop</a></li>
+<li>NextCloud</li>
+<li><a href="https://www.haribo.com/de-de/produkte/haribo/buddy-crew">Haribo Schaumbärchen</a>, <a href="https://www.haribo.com/de-de/produkte/haribo/hey-kakao">Kakao</a></li>
+<li><a href="https://twitter.com/iPhoneBlog/status/1476167446952386560/photo/1">Der Tresor</a></li>
+<li><a href="http://www.gotekemulator.com">Gotek Floppyemulator</a></li>
+<li>Schlaf</li>
+<li><a href="https://twitter.com/schlingel/status/1480615099538755586/photo/1">Produktivitätslauncher</a></li>
+<li><a href="https://sprechkabine.de/s04e50">Sprechkabine S04E50</a> demnächst</li>
+<li>Bloodsport, Don&#8217;t Look Up, Get Back</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://granatapet.de/bitsundso">Granatapet</a>
+<ul>
+<li>Nass- und Trockenfutter für Hunde und Katzen</li>
+<li>Mit Granatapfelkernen, ohne Zucker, ohne Getreide</li>
+<li>5 Euro Rabatt und versandkostenfreies Probepaket mit Code “probeundso”</li>
+</ul>
+</li>
+<li><a href="https://www.seculution.de/bits.html">Seculution – Application Whitelisting</a>
+<ul>
+<li>Garantiert keine Schadsoftware mehr</li>
+<li>Bis zu 100% förderfähig</li>
+<li>8 Wochen kostenlos testen auf <a href="https://www.seculution.de/bits.html">echte-sicherheit.de/bits</a></li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus773/973/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/973/0/bits-2022-01-17-773.mp3" length="101842096" type="audio/mpeg"/>
+<itunes:duration>141:13</itunes:duration>
+		<itunes:subtitle>Neukertje / IAP Stupid Idea / Wordle / Apple VR / Watch Focus / Watch Maps / Nightingale Blut / Ikea Shortcut / Heart Reports / Granatapet / Seculution / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+Match Group, Neukertje, Apple FAQ, Bumble
+Wordle + Kopierkatze
+Tech Emails, Stupid Idea
+Apple VR
+LG RootMy.TV
+FCPX, Fitness+ Feedback
+Watch Focus, Watch Maps, WalkOutDoors
+
+
+Picks
+
+
+alex: Nightingale Health, Blutgruppentest
+timo: Ikea Shortcut Button, Mehrfachsteckdosenpuzzle
+leo: Heart Reports
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 40 Minuten Bonus-Content mit Bits und so Plus
+Basic LaTeX, TeXShop
+NextCloud
+Haribo Schaumbärchen, Kakao
+Der Tresor
+Gotek Floppyemulator
+Schlaf
+Produktivitätslauncher
+Sprechkabine S04E50 demnächst
+Bloodsport, Don#8217;t Look Up, Get Back
+
+
+Sponsoren
+
+
+Granatapet
+
+
+Nass- und Trockenfutter für Hunde und Katzen
+Mit Granatapfelkernen, ohne Zucker, ohne Getreide
+5 Euro Rabatt und versandkostenfreies Probepaket mit Code “probeundso”
+
+Seculution – Application Whitelisting
+
+
+Garantiert keine Schadsoftware mehr
+Bis zu 100% förderfähig
+8 Wochen kostenlos testen auf echte-sicherheit.de/bits
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #772 (Das nächste große Ding)</title>
+		<link>http://www.bitsundso.de/bus772/972/</link>
+		<comments>http://www.bitsundso.de/bus772/972/#comments</comments>
+		<pubDate>Tue, 11 Jan 2022 03:24:06 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Cookis.at]]></category>
+		<category><![CDATA[Geocaching]]></category>
+		<category><![CDATA[Granatapet]]></category>
+		<category><![CDATA[Hardware 2022]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Maps ETA Sharing]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[Next Big Thing]]></category>
+		<category><![CDATA[Schuhschneeketten]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=972</guid>
+		<description><![CDATA[Next Big Thing / Metaverse / Hardware 2022 / Geocaching / Schuhschneeketten / Maps ETA Sharing / Cookis.at / Granatapet / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li>15 Jahre iPhone</li>
+<li>Next Big Thing</li>
+<li>AR, VR, <a href="https://www.youtube.com/watch?v=Uvufun6xer8">Metaverse</a></li>
+<li><a href="https://www.wsj.com/video/series/joanna-stern-personal-technology/trapped-in-the-metaverse-heres-what-24-hours-feels-like/820EA261-05CD-44E9-871C-8CFB8E65DBBF">24 Stunden Oculus</a></li>
+<li>Hardware-Gerüchte 2022</li>
+<li>eSIM</li>
+<li><a href="https://worthdoingbadly.com/vowifi2/">WLAN-Calling</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>alex: <a href="https://apps.apple.com/us/app/geocaching/id329541503">Geocaching®</a></li>
+<li>leo: <a href="https://kahtoola.com/traction/microspikes-footwear-traction/">Schuhschneeketten</a></li>
+<li>timo: <a href="https://support.apple.com/en-gb/guide/iphone/iph65c86df8c/ios">Apple Maps ETA Sharing</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 30 Minuten Bonus-Content mit <a href="https://bitsundso.plus">Bits und so Plus</a></li>
+<li>Weihnachten 2021</li>
+<li>Pizzaschachteln</li>
+<li>Otto-Retouren</li>
+<li>Impfzertifikate</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://cookis.at/jobs">Cookis.at</a>
+<ul>
+<li>Jobangebot: Vue.js, Typo3, HTML, CSS, MySQL, PHP, Node</li>
+<li>In Imst, Tirol oder Remote im Home Office</li>
+<li>Bewerben auf <a href="https://cookis.at/jobs">cookis.at/jobs</a></li>
+</ul>
+</li>
+<li><a href="https://granatapet.de/bitsundso">Granatapet</a>
+<ul>
+<li>Nass- und Trockenfutter für Hunde und Katzen</li>
+<li>Mit Granatapfelkernen, ohne Zucker, ohne Getreide</li>
+<li>5 Euro Rabatt und versandkostenfreies Probepaket mit Code &#8220;probeundso&#8221;</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus772/972/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/972/0/bits-2022-01-10-772.mp3" length="110002645" type="audio/mpeg"/>
+<itunes:duration>152:33</itunes:duration>
+		<itunes:subtitle>Next Big Thing / Metaverse / Hardware 2022 / Geocaching / Schuhschneeketten / Maps ETA Sharing / Cookis.at / Granatapet / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+15 Jahre iPhone
+Next Big Thing
+AR, VR, Metaverse
+24 Stunden Oculus
+Hardware-Gerüchte 2022
+eSIM
+WLAN-Calling
+
+
+Picks
+
+
+alex: Geocaching®
+leo: Schuhschneeketten
+timo: Apple Maps ETA Sharing
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 30 Minuten Bonus-Content mit Bits und so Plus
+Weihnachten 2021
+Pizzaschachteln
+Otto-Retouren
+Impfzertifikate
+
+
+Sponsoren
+
+
+Cookis.at
+
+
+Jobangebot: Vue.js, Typo3, HTML, CSS, MySQL, PHP, Node
+In Imst, Tirol oder Remote im Home Office
+Bewerben auf cookis.at/jobs
+
+Granatapet
+
+
+Nass- und Trockenfutter für Hunde und Katzen
+Mit Granatapfelkernen, ohne Zucker, ohne Getreide
+5 Euro Rabatt und versandkostenfreies Probepaket mit Code #8220;probeundso#8221;
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #771 (Pat Pat Pat)</title>
+		<link>http://www.bitsundso.de/bus771/971/</link>
+		<comments>http://www.bitsundso.de/bus771/971/#comments</comments>
+		<pubDate>Fri, 31 Dec 2021 18:53:31 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[3D-Druck]]></category>
+		<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[Airfryer]]></category>
+		<category><![CDATA[Airfryer vs Fritteuse]]></category>
+		<category><![CDATA[Akkutausch]]></category>
+		<category><![CDATA[ARM Windows]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Bluetooth Overear]]></category>
+		<category><![CDATA[Cheesegrater Case]]></category>
+		<category><![CDATA[Dark Mode]]></category>
+		<category><![CDATA[Foldables]]></category>
+		<category><![CDATA[FritzBox]]></category>
+		<category><![CDATA[Geldverwaltung]]></category>
+		<category><![CDATA[Hamsterrad]]></category>
+		<category><![CDATA[Hörerfragen]]></category>
+		<category><![CDATA[Heute]]></category>
+		<category><![CDATA[Hochzeitsnacht]]></category>
+		<category><![CDATA[iCloud Mail]]></category>
+		<category><![CDATA[In-Ears]]></category>
+		<category><![CDATA[iPad-Recycling]]></category>
+		<category><![CDATA[iPhone 12 Gelbstich]]></category>
+		<category><![CDATA[iPhone SE]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Just Draw It]]></category>
+		<category><![CDATA[Kaffeevollautomaten]]></category>
+		<category><![CDATA[Kinderapps]]></category>
+		<category><![CDATA[Kuchenblechmafia]]></category>
+		<category><![CDATA[Laufleistung]]></category>
+		<category><![CDATA[M1/M2]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[Mailumzug]]></category>
+		<category><![CDATA[Mehltype 00]]></category>
+		<category><![CDATA[OpenCore Legacy]]></category>
+		<category><![CDATA[Passwortmanager]]></category>
+		<category><![CDATA[Pi-Hole]]></category>
+		<category><![CDATA[Pixel 6]]></category>
+		<category><![CDATA[Pizza]]></category>
+		<category><![CDATA[Pizzaplanung]]></category>
+		<category><![CDATA[Pizzateig]]></category>
+		<category><![CDATA[Pizzateigbevorratung]]></category>
+		<category><![CDATA[Podcastkoffer]]></category>
+		<category><![CDATA[Preamp]]></category>
+		<category><![CDATA[Prinzipien vs Bratworscht]]></category>
+		<category><![CDATA[Prompt]]></category>
+		<category><![CDATA[Rückwärtskompatibilität]]></category>
+		<category><![CDATA[Samsung 49"]]></category>
+		<category><![CDATA[Snack Collection]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<category><![CDATA[Tankstellen-Gang]]></category>
+		<category><![CDATA[Türöffner]]></category>
+		<category><![CDATA[Tellerrand]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Thermomix]]></category>
+		<category><![CDATA[Ubiquiti]]></category>
+		<category><![CDATA[Will It Blend?]]></category>
+		<category><![CDATA[Xiaomi 34"]]></category>
+		<category><![CDATA[YouTube Watch Later]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=971</guid>
+		<description><![CDATA[Hörerfragen / Pizza / Hochzeitsnacht / Snack Collection / Airfryer / Bluetooth Overear / Akkutausch / Prompt / Just Draw It / Pizzateig / Tesla / ARM-Windows / Samsung 49" / Tankstellen-Gang / iPhone SE / Hamsterrad / Fritzbox / Passwortmanager / iPad-Recycling / M1/M2 / iPhone 12 Gelbstich / Foldables / MacBook Air / Mehltype 00 / Pizzateigbevorratung / Ubiquiti / OpenCore Legacy / Dark Mode / Mailumzug / 3D-Druck / In-Ears / Cheesegrater Case / Rückwärtskompatibilität / Kinderapps / Podcastkoffer / Kaffeevollautomaten / Thermomix / Pi-Hole / Bluetooth / Geldverwaltung / Preamp / iCloud Mail / Airfryer vs Fritteuse / Türöffner / Heute / Kuchenblechmafia / $AAPL / Laufleistung / YouTube Watch Later / Prinzipien vs Bratworscht / Will It Blend? / Pixel 6 / Pizzaplanung / Streaming / Xiaomi 34" / Tellerrand / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="qa">Q&amp;A</h3>
+<ul>
+<li>Pizza</li>
+<li>Hochzeitsnacht</li>
+<li>Snack Collection</li>
+<li>Airfryer</li>
+<li>Bluetooth Overear</li>
+<li>Akkutausch</li>
+<li>Prompt</li>
+<li>Just Draw It</li>
+<li>Pizzateig</li>
+<li>Tesla</li>
+<li>ARM-Windows</li>
+<li>Samsung 49&quot;</li>
+<li>Tankstellen-Gang</li>
+<li>iPhone SE</li>
+<li>Hamsterrad</li>
+<li>Fritzbox</li>
+<li>Passwortmanager</li>
+<li>iPad-Recycling</li>
+<li>M1/M2</li>
+<li>iPhone 12 Gelbstich</li>
+<li>Foldables</li>
+<li>MacBook Air</li>
+<li>Mehltype 00</li>
+<li>Pizzateigbevorratung</li>
+<li>Ubiquiti</li>
+<li>OpenCore Legacy</li>
+<li>Dark Mode</li>
+<li>Mailumzug</li>
+<li>3D-Druck</li>
+<li>In-Ears</li>
+<li>Cheesegrater Case</li>
+<li>Rückwärtskompatibilität</li>
+<li>Kinderapps</li>
+<li>Podcastkoffer</li>
+<li>Kaffeevollautomaten</li>
+<li>Thermomix</li>
+<li>Pi-Hole</li>
+<li>Bluetooth</li>
+<li>Geldverwaltung</li>
+<li>Preamp</li>
+<li>iCloud Mail</li>
+<li>Airfryer vs Fritteuse</li>
+<li>Türöffner</li>
+<li>Heute</li>
+<li>Kuchenblechmafia</li>
+<li>$AAPL</li>
+<li>Laufleistung</li>
+<li>YouTube Watch Later</li>
+<li>Prinzipien vs Bratworscht</li>
+<li>Will It Blend?</li>
+<li>Pixel 6</li>
+<li>Pizzaplanung</li>
+<li>Streaming</li>
+<li>Xiaomi 34&quot;</li>
+<li>Tellerrand</li>
+<li>Links folgen nächstes Jahr</li>
+</ul>
+<h3 id="sponsor">Sponsor</h3>
+<ul>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus771/971/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/971/0/bits-2021-12-31-771.mp3" length="110636167" type="audio/mpeg"/>
+<itunes:duration>153:26</itunes:duration>
+		<itunes:subtitle>Hörerfragen / Pizza / Hochzeitsnacht / Snack Collection / Airfryer / Bluetooth Overear / Akkutausch / Prompt / Just Draw It / Pizzateig / Tesla / ARM-Windows / Samsung 49" / Tankstellen-Gang / iPhone SE / Hamsterrad / Fritzbox / Passwortmanager / iPad-R</itunes:subtitle>
+		<itunes:summary>Q#38;A
+
+
+Pizza
+Hochzeitsnacht
+Snack Collection
+Airfryer
+Bluetooth Overear
+Akkutausch
+Prompt
+Just Draw It
+Pizzateig
+Tesla
+ARM-Windows
+Samsung 49#34;
+Tankstellen-Gang
+iPhone SE
+Hamsterrad
+Fritzbox
+Passwortmanager
+iPad-Recycling
+M1/M2
+iPhone 12 Gelbstich
+Foldables
+MacBook Air
+Mehltype 00
+Pizzateigbevorratung
+Ubiquiti
+OpenCore Legacy
+Dark Mode
+Mailumzug
+3D-Druck
+In-Ears
+Cheesegrater Case
+Rückwärtskompatibilität
+Kinderapps
+Podcastkoffer
+Kaffeevollautomaten
+Thermomix
+Pi-Hole
+Bluetooth
+Geldverwaltung
+Preamp
+iCloud Mail
+Airfryer vs Fritteuse
+Türöffner
+Heute
+Kuchenblechmafia
+$AAPL
+Laufleistung
+YouTube Watch Later
+Prinzipien vs Bratworscht
+Will It Blend?
+Pixel 6
+Pizzaplanung
+Streaming
+Xiaomi 34#34;
+Tellerrand
+Links folgen nächstes Jahr
+
+
+Sponsor
+
+Jimdo
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #770 (Der Fahrrad fürs Gehirn)</title>
+		<link>http://www.bitsundso.de/bus770/970/</link>
+		<comments>http://www.bitsundso.de/bus770/970/#comments</comments>
+		<pubDate>Mon, 20 Dec 2021 19:29:09 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Analogue Pocket]]></category>
+		<category><![CDATA[Apple Music App]]></category>
+		<category><![CDATA[Apple Watch 7]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[LG Panelgerüchte]]></category>
+		<category><![CDATA[MacBook-Upcycling]]></category>
+		<category><![CDATA[mRNA]]></category>
+		<category><![CDATA[NordVPN]]></category>
+		<category><![CDATA[NSO Zero-Click]]></category>
+		<category><![CDATA[Pixelmator Photo]]></category>
+		<category><![CDATA[Seculution]]></category>
+		<category><![CDATA[Swift Playgrounds]]></category>
+		<category><![CDATA[Tanksäulen-Apps]]></category>
+		<category><![CDATA[Teufel Real Blue TWS]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=970</guid>
+		<description><![CDATA[NSO Zero-Click / Swift Playgrounds / Apple Watch 7 / Apple Music App / MacBook-Upcycling / LG Panelgerüchte / Analogue Pocket / mRNA / Tanksäulen-Apps / Pixelmator Photo / Teufel Real Blue TWS / NordVPN / Seculution / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li><a href="https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html">NSO Zero-Click</a></li>
+<li><a href="https://www.youtube.com/results?search_query=finding+jesus">Finding Jesus</a></li>
+<li><a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a></li>
+<li>Nike Watch 7</li>
+<li>Apple Music Mac App</li>
+<li>MacBook-Upcycling: <a href="https://dortania.github.io/OpenCore-Legacy-Patcher/">OpenCore Legacy Patcher</a></li>
+<li>LG-Panelgerüchte</li>
+<li><a href="https://www.analogue.co/pocket">Analogue Pocket</a></li>
+<li><a href="https://scanofthemonth.com">Scan of the Month</a></li>
+<li>Sounds: <a href="https://freesound.org/people/tutarap/sounds/366007/">Cyber</a>, <a href="https://freesound.org/people/tosha73/sounds/538787/">Jingles</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">mRNA-Technologie</a></li>
+<li>leo: Tanksäulen-Apps</li>
+<li>alex: <a href="https://www.pixelmator.com/photo/">Pixelmator Photo</a></li>
+<li>basti: <a href="https://teufel.de/real-blue-tws-106337000">Teufel True Blue TWS</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 50 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Fitness Competition</li>
+<li><a href="https://twitter.com/timohetzel/status/1471994750253379586">Pizzateig</a></li>
+<li>iPhone 13, Sony Ericsson</li>
+<li><a href="https://elementary.io/de/">Elementary OS</a>, <a href="https://kde.org/plasma-desktop/">KDE Plasma</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://nordvpn.com/bitsundso">NordVPN</a>
+<ul>
+<li>Über 5100 Server in 59 Ländern</li>
+<li>Rabatt auf 2-Jahres-Paket</li>
+<li>Plus aktueller Bonus auf <a href="https://nordvpn.com/bitsundso">nordvpn.com/bitsundso</a>, Code bitsundso</li>
+</ul>
+</li>
+<li><a href="https://www.seculution.de/bits.html">Seculution – Application Whitelisting</a>
+<ul>
+<li>Garantiert keine Schadsoftware mehr</li>
+<li>Bis zu 100% förderfähig</li>
+<li>8 Wochen kostenlos testen auf <a href="https://www.seculution.de/bits.html">echte-sicherheit.de/bits</a></li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus770/970/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/970/0/bits-2021-12-19-770.mp3" length="111637074" type="audio/mpeg"/>
+<itunes:duration>154:49</itunes:duration>
+		<itunes:subtitle>NSO Zero-Click / Swift Playgrounds / Apple Watch 7 / Apple Music App / MacBook-Upcycling / LG Panelgerüchte / Analogue Pocket / mRNA / Tanksäulen-Apps / Pixelmator Photo / Teufel Real Blue TWS / NordVPN / Seculution / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+NSO Zero-Click
+Finding Jesus
+Swift Playgrounds
+Nike Watch 7
+Apple Music Mac App
+MacBook-Upcycling: OpenCore Legacy Patcher
+LG-Panelgerüchte
+Analogue Pocket
+Scan of the Month
+Sounds: Cyber, Jingles
+
+
+Picks
+
+
+timo: mRNA-Technologie
+leo: Tanksäulen-Apps
+alex: Pixelmator Photo
+basti: Teufel True Blue TWS
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 50 Minuten Bonus-Content mit Bits und so Plus
+Fitness Competition
+Pizzateig
+iPhone 13, Sony Ericsson
+Elementary OS, KDE Plasma
+
+
+Sponsoren
+
+
+NordVPN
+
+
+Über 5100 Server in 59 Ländern
+Rabatt auf 2-Jahres-Paket
+Plus aktueller Bonus auf nordvpn.com/bitsundso, Code bitsundso
+
+Seculution – Application Whitelisting
+
+
+Garantiert keine Schadsoftware mehr
+Bis zu 100% förderfähig
+8 Wochen kostenlos testen auf echte-sicherheit.de/bits
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #769 (${jndi:ldap://bitsundso.de/bus769})</title>
+		<link>http://www.bitsundso.de/bus769/969/</link>
+		<comments>http://www.bitsundso.de/bus769/969/#comments</comments>
+		<pubDate>Mon, 13 Dec 2021 18:25:01 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Activity Stats/HealthFit]]></category>
+		<category><![CDATA[Cookis.at]]></category>
+		<category><![CDATA[Fitness Plus]]></category>
+		<category><![CDATA[Granatapet]]></category>
+		<category><![CDATA[HDCP 2.2]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Linux Desktop]]></category>
+		<category><![CDATA[log4j]]></category>
+		<category><![CDATA[parallels]]></category>
+		<category><![CDATA[Revive iPhone]]></category>
+		<category><![CDATA[Safari Keyword Search]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[VSCO]]></category>
+		<category><![CDATA[Watch 7]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=969</guid>
+		<description><![CDATA[log4j / Parallels / Revive iPhone / Watch 7 / Fitness Plus / HDCP 2.2 / Linux Desktop / Activity Stats/HealthFit / VSCO / Safari Keyword Search / Setapp / Granatapet / Cookis.at / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li><a href="https://logging.apache.org/log4j/2.x/security.html">log4j</a>, <a href="https://xkcd.com/2347/">XKCD</a></li>
+<li><a href="https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/">Ubiquiti Erpressung</a></li>
+<li>Parallels Windows-Image</li>
+<li><a href="https://support.apple.com/guide/apple-configurator-2/revive-an-iphone-ipad-or-apple-tv-cad367dc4593/mac">Revive iPhone</a>, <a href="https://support.apple.com/de-de/HT212513">Wiederherstellungskontakt</a></li>
+<li>Watch 7-Bestellung, Fitness Plus</li>
+<li>Bond: HDCP 2.2</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>basti: Linux auf dem Desktop: <a href="https://ubuntu.com/download/desktop">Ubuntu</a>, <a href="https://elementary.io/de/">Elementary</a>, <a href="https://manjaro.org/download/">Manjaro</a>, <a href="https://www.balena.io/etcher/">Balena Etcher</a></li>
+<li>timo: <a href="https://apps.apple.com/us/app/activity-stats/id1511179040">Activity Stats</a>, <a href="https://apps.apple.com/us/app/healthfit/id1202650514">HealthFit</a></li>
+<li>leo: <a href="https://vsco.co">VSCO</a></li>
+<li>alex: <a href="http://safarikeywordsearch.aurlien.net">Safari Keyword Search</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 50 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Adieu Hackintosh, Bonjour Linux</li>
+<li>Cyberpunk 2077 auf PS4</li>
+<li>Fitness-Challenge</li>
+<li>Remote Weihnachtsfeier</li>
+<li>Airfryer Life</li>
+<li>Bond-Review bei der <a href="https://sprechkabine.de">Sprechkabine</a> S04E48 (demnächst)</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://cookis.at/jobs">Cookis.at</a>
+<ul>
+<li>Jobangebot: Vue.js, Typo3, HTML, CSS, MySQL, PHP, Node</li>
+<li>In Imst, Tirol oder Remote im Home Office</li>
+<li>Bewerben auf <a href="https://cookis.at/jobs">cookis.at/jobs</a></li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus769/969/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/969/0/bits-2021-12-13-769.mp3" length="88521215" type="audio/mpeg"/>
+<itunes:duration>122:43</itunes:duration>
+		<itunes:subtitle>log4j / Parallels / Revive iPhone / Watch 7 / Fitness Plus / HDCP 2.2 / Linux Desktop / Activity Stats/HealthFit / VSCO / Safari Keyword Search / Setapp / Granatapet / Cookis.at / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+log4j, XKCD
+Ubiquiti Erpressung
+Parallels Windows-Image
+Revive iPhone, Wiederherstellungskontakt
+Watch 7-Bestellung, Fitness Plus
+Bond: HDCP 2.2
+
+
+Picks
+
+
+basti: Linux auf dem Desktop: Ubuntu, Elementary, Manjaro, Balena Etcher
+timo: Activity Stats, HealthFit
+leo: VSCO
+alex: Safari Keyword Search
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 50 Minuten Bonus-Content mit Bits und so Plus
+Adieu Hackintosh, Bonjour Linux
+Cyberpunk 2077 auf PS4
+Fitness-Challenge
+Remote Weihnachtsfeier
+Airfryer Life
+Bond-Review bei der Sprechkabine S04E48 (demnächst)
+
+
+Sponsoren
+
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+Cookis.at
+
+
+Jobangebot: Vue.js, Typo3, HTML, CSS, MySQL, PHP, Node
+In Imst, Tirol oder Remote im Home Office
+Bewerben auf cookis.at/jobs
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #768 (Bei Vollmond)</title>
+		<link>http://www.bitsundso.de/bus768/968/</link>
+		<comments>http://www.bitsundso.de/bus768/968/#comments</comments>
+		<pubDate>Mon, 06 Dec 2021 14:25:02 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Affordances]]></category>
+		<category><![CDATA[AirTag-Diebe]]></category>
+		<category><![CDATA[Bootcamp]]></category>
+		<category><![CDATA[Bose 700]]></category>
+		<category><![CDATA[Google Assistant]]></category>
+		<category><![CDATA[Granatapet]]></category>
+		<category><![CDATA[Hetzner NextCloud]]></category>
+		<category><![CDATA[Jack]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Mechanische Keyboards]]></category>
+		<category><![CDATA[networkQuality]]></category>
+		<category><![CDATA[NordicTrack Android]]></category>
+		<category><![CDATA[Parallels 17]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[Verbraucherschutz]]></category>
+		<category><![CDATA[Wahoo Bike-Computer]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=968</guid>
+		<description><![CDATA[Parallels 17 / BootCamp / Affordances / Jack / Bose 700 / AirTag-Diebe / Google Assistant / NordicTrack Android / Hetzner NextCloud / networkQuality / Wahoo Bike-Computer / Verbraucherschutz / Mechanische Keyboards / Setapp / Granatapet / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li><a href="https://www.parallels.com/blogs/parallels-desktop-17/">Parallels 17</a></li>
+<li>Windows ISOs: <a href="https://uupdump.net">uupdump</a>, <a href="https://github.com/sidneys/homebrew-homebrew/issues/2">brew tap</a></li>
+<li>ARM-BootCamp</li>
+<li>Affordances</li>
+<li><a href="https://twitter.com/jack/status/1465347002426867720">Jack geht</a>, <a href="https://twitter.com/paraga/status/1465349749607854083">Parag kommt</a></li>
+<li><a href="https://squareup.com/us/en/point-of-sale">Square</a>, <a href="https://stripe.com/en-gb-de/terminal">Stripe Terminal</a></li>
+<li>Werbealgorithmen</li>
+<li><a href="https://www.bose.de/de_de/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black">Bose 700</a>, <a href="https://www.bose.de/de_de/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver">QC 35 II</a></li>
+<li>AirTag-Diebe</li>
+<li>Look Around Toronto, New York</li>
+<li>Google Assistant</li>
+<li><a href="https://www.nordictrack.com">NordicTrack</a> dreht Debug ab</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://www.hetzner.com/storage/storage-share">Hetzner Storage Share</a> (<a href="https://nextcloud.com">NextCloud</a>), <a href="https://owncloud.com">ownCloud</a></li>
+<li>alex: <a href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html">networkQuality</a>, <a href="https://apps.apple.com/de/app/speediness/id1596706466?l=en&amp;mt=12">Speediness</a>, Verbraucherschutz</li>
+<li>leo: <a href="https://eu.wahoofitness.com/devices/bike-computers">Wahoo Bike-Computer</a></li>
+<li>basti: <a href="https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard">Keychron K3</a>, <a href="https://rama.works">Rama</a>, <a href="https://teenage.engineering/products/computer-1">Teenage Engineering</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 45 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://shop.bitsundso.de">Die allerletzten Tassen</a></li>
+<li>Starkverkehrszeit, Transportbetriebsmittelknappheit</li>
+<li>Otto… find ich gut</li>
+<li>Fitness+, <a href="https://www.menshealth.com/fitness/a35567297/apple-fitness-plus-studio-tour-exclusive/">BTS</a></li>
+<li>Fernseherfüße</li>
+<li><a href="https://shop.tesla.com/product/cyberquad-for-kids">Cyberquad</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://granatapet.de/bitsundso">Granatapet</a>
+<ul>
+<li>Nass- und Trockenfutter für Hunde und Katzen</li>
+<li>Mit Granatapfelkernen, ohne Zucker, ohne Getreide</li>
+<li>5 Euro Rabatt und versandkostenfreies Probepaket mit Code &#8220;probeundso&#8221;</li>
+</ul>
+</li>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus768/968/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/968/0/bits-2021-12-05-768.mp3" length="132473699" type="audio/mpeg"/>
+<itunes:duration>183:46</itunes:duration>
+		<itunes:subtitle>Parallels 17 / BootCamp / Affordances / Jack / Bose 700 / AirTag-Diebe / Google Assistant / NordicTrack Android / Hetzner NextCloud / networkQuality / Wahoo Bike-Computer / Verbraucherschutz / Mechanische Keyboards / Setapp / Granatapet / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+Parallels 17
+Windows ISOs: uupdump, brew tap
+ARM-BootCamp
+Affordances
+Jack geht, Parag kommt
+Square, Stripe Terminal
+Werbealgorithmen
+Bose 700, QC 35 II
+AirTag-Diebe
+Look Around Toronto, New York
+Google Assistant
+NordicTrack dreht Debug ab
+
+
+Picks
+
+
+timo: Hetzner Storage Share (NextCloud), ownCloud
+alex: networkQuality, Speediness, Verbraucherschutz
+leo: Wahoo Bike-Computer
+basti: Keychron K3, Rama, Teenage Engineering
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 45 Minuten Bonus-Content mit Bits und so Plus
+Die allerletzten Tassen
+Starkverkehrszeit, Transportbetriebsmittelknappheit
+Otto… find ich gut
+Fitness+, BTS
+Fernseherfüße
+Cyberquad
+
+
+Sponsoren
+
+
+Granatapet
+
+
+Nass- und Trockenfutter für Hunde und Katzen
+Mit Granatapfelkernen, ohne Zucker, ohne Getreide
+5 Euro Rabatt und versandkostenfreies Probepaket mit Code #8220;probeundso#8221;
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #767 (Cyber!)</title>
+		<link>http://www.bitsundso.de/bus767/967/</link>
+		<comments>http://www.bitsundso.de/bus767/967/#comments</comments>
+		<pubDate>Sat, 27 Nov 2021 03:27:32 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[App Store Ads]]></category>
+		<category><![CDATA[Apple vs NSO]]></category>
+		<category><![CDATA[ARM Windows]]></category>
+		<category><![CDATA[iMac-Schnäppchen]]></category>
+		<category><![CDATA[iPhone 13]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Nextcloud]]></category>
+		<category><![CDATA[NordVPN]]></category>
+		<category><![CDATA[Privacy Lockdown]]></category>
+		<category><![CDATA[Screens]]></category>
+		<category><![CDATA[Setapp]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=967</guid>
+		<description><![CDATA[Apple vs NSO / MacBook Pro / iMac-Schnäppchen / App Store Ads / ARM Windows / Screens / Nextcloud / iPhone 13 / Privacy Lockdown / NordVPN / Setapp / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li>Apple vs NSO</li>
+<li>MacBook Pro</li>
+<li><a href="https://twitter.com/NanoRaptor/status/1263951114170318848/photo/1">30&quot; PowerBook</a></li>
+<li>Cocoapods</li>
+<li>Black Friday-Schnäppchen</li>
+<li>App Store Ads auf Google</li>
+<li>ARM-Windows</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://edovia.com/en/screens-mac/">Screens</a></li>
+<li>basti: <a href="https://nextcloud.com">Nextcloud</a>, <a href="https://www.hetzner.com/storage/storage-share">Hetzner</a></li>
+<li>alex: iPhone 13</li>
+<li>leo: <a href="https://lockdownprivacy.com">Lockdown Privacy</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche über eine Stunde Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://shop.bitsundso.de">Die letzten Tassen</a></li>
+<li>Passwortmanager, Yubikeys</li>
+<li>Schweiger, Booster Cola</li>
+<li>Kaffeefeedback, <a href="https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ">James Hoffmann</a></li>
+<li>Dubsmash</li>
+<li><a href="https://www.samsung.com/de/lifestyle-tvs/the-sero/the-sero-43-inch-4k-smart-tv-ls05t-navy-blue-gq43ls05tcuxzg/">Sero 4K</a></li>
+<li><a href="https://openlgtv.github.io">Open LG TV</a></li>
+<li><a href="https://youtu.be/DHMU4ReH-uA?t=1807">Brutalmoose</a>, Dislikes</li>
+<li>iPhone Update-Rettung</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://nordvpn.com/bitsundso">NordVPN</a>
+<ul>
+<li>Über 5100 Server in 59 Ländern</li>
+<li>Rabatt auf 2-Jahres-Paket</li>
+<li>Plus aktueller Bonus auf <a href="https://nordvpn.com/bitsundso">nordvpn.com/bitsundso</a>, Code bitsundso</li>
+</ul>
+</li>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus767/967/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/967/0/bits-2021-11-27-767.mp3" length="101788493" type="audio/mpeg"/>
+<itunes:duration>141:09</itunes:duration>
+		<itunes:subtitle>Apple vs NSO / MacBook Pro / iMac-Schnäppchen / App Store Ads / ARM Windows / Screens / Nextcloud / iPhone 13 / Privacy Lockdown / NordVPN / Setapp / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+Apple vs NSO
+MacBook Pro
+30#34; PowerBook
+Cocoapods
+Black Friday-Schnäppchen
+App Store Ads auf Google
+ARM-Windows
+
+
+Picks
+
+
+timo: Screens
+basti: Nextcloud, Hetzner
+alex: iPhone 13
+leo: Lockdown Privacy
+
+
+Pre-/Postshow
+
+
+Diese Woche über eine Stunde Bonus-Content mit Bits und so Plus
+Die letzten Tassen
+Passwortmanager, Yubikeys
+Schweiger, Booster Cola
+Kaffeefeedback, James Hoffmann
+Dubsmash
+Sero 4K
+Open LG TV
+Brutalmoose, Dislikes
+iPhone Update-Rettung
+
+
+Sponsoren
+
+
+NordVPN
+
+
+Über 5100 Server in 59 Ländern
+Rabatt auf 2-Jahres-Paket
+Plus aktueller Bonus auf nordvpn.com/bitsundso, Code bitsundso
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #766 (I Can Be This Guy)</title>
+		<link>http://www.bitsundso.de/bus766/966/</link>
+		<comments>http://www.bitsundso.de/bus766/966/#comments</comments>
+		<pubDate>Sun, 21 Nov 2021 17:59:24 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Aerial]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[Kaffeetrichter]]></category>
+		<category><![CDATA[Kingdom Rush]]></category>
+		<category><![CDATA[MacBook Pro 2021]]></category>
+		<category><![CDATA[Netflix Top 10]]></category>
+		<category><![CDATA[Prologue]]></category>
+		<category><![CDATA[Right to Repair]]></category>
+		<category><![CDATA[Samsung Odyssey]]></category>
+		<category><![CDATA[Satellite]]></category>
+		<category><![CDATA[Setapp]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=966</guid>
+		<description><![CDATA[MacBook Pro 2021 / Samsung Odyssey / Right to Repair / Netflix Top 10 / Aerial / Kaffeetrichter / Prologue / Kingdom Rush / Setapp / Satellite / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li>UPS Direct Delivery Only Quantum View MyChoice</li>
+<li>MacBook Pro 16&quot;</li>
+<li><a href="https://www.samsung.com/de/monitors/gaming/odyssey-crg9-49-inch-120hz-freesync-curved-lc49rg94ssrxzg/">Samsung Odyssey 49&quot; Ultrawide</a></li>
+<li><a href="https://twitter.com/timohetzel/status/1460379608914833412">I can be this guy</a></li>
+<li>Right to Repair</li>
+<li><a href="https://top10.netflix.com">Netflix Top 10</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://aerialscreensaver.github.io">Aerial Bildschirmschoner</a></li>
+<li>basti: <a href="https://www.amazon.de/gp/product/B094JQ9WZR/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&amp;psc=1">Kaffeetrichter</a></li>
+<li>alex: <a href="https://prologue.audio">Prologue Hörbücher</a> in Plex</li>
+<li>leo: <a href="https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id1579364157">Kingdom Rush Apple Arcade</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 40 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://shop.bitsundso.de">Tassen-Shop</a></li>
+<li>Reifenwechsel</li>
+<li>Linerless-Etiketten</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://satellite.me/bits">Satellite</a>
+<ul>
+<li>Deutsche Handynummer in VoIP-App, ohne SIM</li>
+<li>Gruppenruf für Firma, Verein, etc.</li>
+<li>Erster Monat gratis, dann 24,99 Euro für alle Mitarbeiter</li>
+</ul>
+</li>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus766/966/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/966/0/bits-2021-11-21-766.mp3" length="114922547" type="audio/mpeg"/>
+<itunes:duration>159:23</itunes:duration>
+		<itunes:subtitle>MacBook Pro 2021 / Samsung Odyssey / Right to Repair / Netflix Top 10 / Aerial / Kaffeetrichter / Prologue / Kingdom Rush / Setapp / Satellite / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+UPS Direct Delivery Only Quantum View MyChoice
+MacBook Pro 16#34;
+Samsung Odyssey 49#34; Ultrawide
+I can be this guy
+Right to Repair
+Netflix Top 10
+
+
+Picks
+
+
+timo: Aerial Bildschirmschoner
+basti: Kaffeetrichter
+alex: Prologue Hörbücher in Plex
+leo: Kingdom Rush Apple Arcade
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 40 Minuten Bonus-Content mit Bits und so Plus
+Tassen-Shop
+Reifenwechsel
+Linerless-Etiketten
+
+
+Sponsoren
+
+
+Satellite
+
+
+Deutsche Handynummer in VoIP-App, ohne SIM
+Gruppenruf für Firma, Verein, etc.
+Erster Monat gratis, dann 24,99 Euro für alle Mitarbeiter
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #765 (Agilität hat immer ihren Preis)</title>
+		<link>http://www.bitsundso.de/bus765/964/</link>
+		<comments>http://www.bitsundso.de/bus765/964/#comments</comments>
+		<pubDate>Sun, 14 Nov 2021 20:10:46 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ARM-Transition]]></category>
+		<category><![CDATA[Backbone+]]></category>
+		<category><![CDATA[Business Essentials]]></category>
+		<category><![CDATA[Coros Vertix 2]]></category>
+		<category><![CDATA[CovPass]]></category>
+		<category><![CDATA[Doctolib]]></category>
+		<category><![CDATA[Impfzertifikat in Wallet]]></category>
+		<category><![CDATA[Monitor-Transition]]></category>
+		<category><![CDATA[Nacktfilter]]></category>
+		<category><![CDATA[Netflix Games]]></category>
+		<category><![CDATA[NINA]]></category>
+		<category><![CDATA[Passwortmanager]]></category>
+		<category><![CDATA[RKI Datenspende]]></category>
+		<category><![CDATA[Ruffwear Beacon]]></category>
+		<category><![CDATA[Seculution]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[Sipgate Satellite]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=964</guid>
+		<description><![CDATA[ARM-Transition / Monitor-Transition / Business Essentials / Nacktfilter / NINA / CovPass / Impfzertifikat in Wallet / Doctolib / RKI Datenspende / Netflix Games / Passwortmanager / Coros Vertix 2 / Ruffwear Beacon / Backbone+ / Sipgate Satellite / Setapp / Seculution]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li>ARM-Transition</li>
+<li>Risky Business: <a href="https://risky.biz/RB643/">Senetas Interview</a></li>
+<li><a href="https://www.samsung.com/de/monitors/gaming/odyssey-crg9-49-inch-120hz-freesync-curved-lc49rg94ssrxzg/">Ultrawide</a></li>
+<li><a href="https://www.apple.com/business/essentials/">Business Essentials</a></li>
+<li>iMessage-Nacktfilter, <a href="https://www.gwern.net/docs/ai/2016-goh-opennsfw.html">Yahoo NSFW</a></li>
+<li>NINA, Notruf-Ausfall</li>
+<li><a href="https://www.heise.de/news/Steuerzahlerbund-ruegt-Luca-App-digitalen-Impfnachweis-und-IT-Chaos-beim-Bund-6262887.html">Bund der Steuerzahler</a></li>
+<li><a href="https://www.heise.de/news/Digitaler-Impfnachweis-CovPass-kostet-fuenfmal-mehr-als-geplant-6265804.html">Agiler CovPass</a></li>
+<li><a href="https://www.doctolib.de">Doctolib</a></li>
+<li><a href="https://corona-datenspende.de/science/reports/prolongedchanges/">RKI Datenspende</a></li>
+<li>Netflix Games</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://apps.apple.com/gr/app/covid-free-gr-wallet/id1574669501">Covid Free Greece</a>, Impfzertifikatsexport zu Apple Wallet</li>
+<li>basti: <a href="https://keepassxc.org">KeePassXC</a>, <a href="https://mobile.coros.com/vertix2/">Coros Vertix 2</a>, <a href="https://www.enjoyyourbike.com/Elektronik-Licht/GPS-Sportuhren/COROS-VERTIX-2-GPS-Adventure-Watch-Obsidian-Multisport-Trainingscomputer::15644.html">EYB</a></li>
+<li>leo: <a href="https://en.ruffwear.de/products/the-beacon-dog-safety-light">Ruffwear Beacon Hundelicht</a></li>
+<li>alex: <a href="https://playbackbone.com/blog/announcing-backbone/">Backbone+ iPhone Gamecontroller</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 45 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://shop.bitsundso.de">Tassen-Sale</a>: B-Ware ausverkauft, A-Ware seriös dezimiert</li>
+<li>Finnland: Flaggenapp, <a href="https://labroad.de/labrd047-alex-olma/">Labroad</a></li>
+<li>Riedenburger Ur-Dinkel</li>
+<li>Mukbang: <a href="https://www.youtube.com/channel/UCxYYbzOCCeFwAl80gDJjaag">Tasty Hoon</a>, <a href="https://www.youtube.com/channel/UCfpaSruWW3S4dibonKXENjA">Tzu Yang</a></li>
+<li><a href="https://sprechkabine.de/s04e47">Sprechkabine</a>: iMac-Intervention</li>
+<li>Mini-Barista</li>
+<li><a href="https://www.youtube.com/watch?v=qBpiXcyB7wU">The Grid</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://satellite.me/bits">Satellite</a>
+<ul>
+<li>Deutsche Handynummer in VoIP-App, ohne SIM</li>
+<li>Gruppenruf für Firma, Verein, etc.</li>
+<li>Erster Monat gratis, dann 24,99 Euro für alle Mitarbeiter</li>
+</ul>
+</li>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://www.seculution.de/bits.html">Seculution &#8211; Application Whitelisting</a>
+<ul>
+<li>Garantiert keine Schadsoftware mehr</li>
+<li>Bis zu 100% förderfähig</li>
+<li>8 Wochen kostenlos testen auf <a href="https://www.seculution.de/bits.html">echte-sicherheit.de/bits</a></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus765/964/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/964/0/bits-2021-11-14-765.mp3" length="122623864" type="audio/mpeg"/>
+<itunes:duration>170:05</itunes:duration>
+		<itunes:subtitle>ARM-Transition / Monitor-Transition / Business Essentials / Nacktfilter / NINA / CovPass / Impfzertifikat in Wallet / Doctolib / RKI Datenspende / Netflix Games / Passwortmanager / Coros Vertix 2 / Ruffwear Beacon / Backbone+ / Sipgate Satellite / Setapp</itunes:subtitle>
+		<itunes:summary>News
+
+
+ARM-Transition
+Risky Business: Senetas Interview
+Ultrawide
+Business Essentials
+iMessage-Nacktfilter, Yahoo NSFW
+NINA, Notruf-Ausfall
+Bund der Steuerzahler
+Agiler CovPass
+Doctolib
+RKI Datenspende
+Netflix Games
+
+
+Picks
+
+
+timo: Covid Free Greece, Impfzertifikatsexport zu Apple Wallet
+basti: KeePassXC, Coros Vertix 2, EYB
+leo: Ruffwear Beacon Hundelicht
+alex: Backbone+ iPhone Gamecontroller
+
+
+Pre-/Postshow
+
+
+Diese Woche rund 45 Minuten Bonus-Content mit Bits und so Plus
+Tassen-Sale: B-Ware ausverkauft, A-Ware seriös dezimiert
+Finnland: Flaggenapp, Labroad
+Riedenburger Ur-Dinkel
+Mukbang: Tasty Hoon, Tzu Yang
+Sprechkabine: iMac-Intervention
+Mini-Barista
+The Grid
+
+
+Sponsoren
+
+
+Satellite
+
+
+Deutsche Handynummer in VoIP-App, ohne SIM
+Gruppenruf für Firma, Verein, etc.
+Erster Monat gratis, dann 24,99 Euro für alle Mitarbeiter
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+Seculution - Application Whitelisting
+
+
+Garantiert keine Schadsoftware mehr
+Bis zu 100% förderfähig
+8 Wochen kostenlos testen auf echte-sicherheit.de/bits
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+		<item>
+		<title>Bits und so #764 (Der Hirte des App Stores)</title>
+		<link>http://www.bitsundso.de/bus764/963/</link>
+		<comments>http://www.bitsundso.de/bus764/963/#comments</comments>
+		<pubDate>Mon, 08 Nov 2021 01:48:04 +0000</pubDate>
+		<dc:creator>Timo Hetzel</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[App Store Korea]]></category>
+		<category><![CDATA[Fitness+]]></category>
+		<category><![CDATA[Girocard]]></category>
+		<category><![CDATA[Git Undo]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[Jimdo]]></category>
+		<category><![CDATA[KDE Connect]]></category>
+		<category><![CDATA[La Vialla]]></category>
+		<category><![CDATA[M1 Dummy Monitor]]></category>
+		<category><![CDATA[Passwortmanager]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[SharePlay]]></category>
+		<category><![CDATA[Sideloading]]></category>
+		<category><![CDATA[Tassen-Sale]]></category>
+		<category><![CDATA[Tot Notizen]]></category>
+
+		<guid isPermaLink="false">http://www.bitsundso.de/?p=963</guid>
+		<description><![CDATA[Sideloading / App Store Korea / Tassen-Sale / Fitness+ / SharePlay / Girocard / iPad mini / Git Undo / Passwortmanager / M1 Dummy Monitor / KDE Connect / Tot Notizen / Setapp / La Vialla / Jimdo]]></description>
+			<content:encoded><![CDATA[<h3 id="news">News</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=COA_T5mNQRg">Craig beim Web Summit</a></li>
+<li>Google Play in Korea</li>
+<li><a href="https://twitter.com/DorsaAmir/status/1454822232463593472">Würfel</a></li>
+<li><a href="https://www.youtube.com/channel/UCxYYbzOCCeFwAl80gDJjaag/videos">Tasty Hoon</a></li>
+<li><a href="https://www.apple.com/de/apple-one/">Apple One</a></li>
+<li><a href="https://www.apple.com/de/apple-fitness-plus/">Fitness+</a></li>
+<li>SharePlay</li>
+<li>Girocard, ING, DKB</li>
+<li>iPad mini</li>
+<li>Git Undo, <a href="https://ohshitgit.com">ohshitgit</a></li>
+</ul>
+<h3 id="tassen-ausverkauf">Tassen-Ausverkauf</h3>
+<ul>
+<li>Jetzt auf <a href="https://shop.bitsundso.de">shop.bitsundso.de</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>basti: Passwortmanagerschmerzen</li>
+<li>timo: <a href="https://github.com/waydabber/BetterDummy">M1 Dummy Monitor</a></li>
+<li>leo: <a href="https://kdeconnect.kde.org/download.html">KDE Connect</a>, <a href="https://testflight.apple.com/join/vxCluwBF">TestFlight</a></li>
+<li>alex: <a href="https://tot.rocks">Tot Notizen</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche über eine Stunde Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Rollcontainer, Wechselbrücken</li>
+<li>Weihnachtsbier, Naturtrüb</li>
+<li>Tesla &#8220;Service&#8221; Bock auf Kunden</li>
+<li>Wetten, dass…?!</li>
+<li>CWA-Notification</li>
+<li>Pakete</li>
+<li>Ikea Finnland: Söderhamn</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://setapp.com/bits">Setapp</a>
+<ul>
+<li>Think tasks, not apps</li>
+<li>Über 200 Apps für alle Aufgaben</li>
+<li>Für eine Woche gratis testen, danach 9,99$/Monat</li>
+</ul>
+</li>
+<li><a href="https://lavialla.com/bits">La Vialla</a>
+<ul>
+<li>Wein, Öl, Pasta und vieles mehr</li>
+<li>Geschenkpakete in allen Größen und Mischungen</li>
+<li>Gratis Katalog bestellen</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Aus vielen Vorlagen auswählen</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bitsundso.de/bus764/963/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.bitsundso.de/podpress_trac/feed/963/0/bits-2021-11-07-764.mp3" length="116081443" type="audio/mpeg"/>
+<itunes:duration>161:00</itunes:duration>
+		<itunes:subtitle>Sideloading / App Store Korea / Tassen-Sale / Fitness+ / SharePlay / Girocard / iPad mini / Git Undo / Passwortmanager / M1 Dummy Monitor / KDE Connect / Tot Notizen / Setapp / La Vialla / Jimdo</itunes:subtitle>
+		<itunes:summary>News
+
+
+Craig beim Web Summit
+Google Play in Korea
+Würfel
+Tasty Hoon
+Apple One
+Fitness+
+SharePlay
+Girocard, ING, DKB
+iPad mini
+Git Undo, ohshitgit
+
+
+Tassen-Ausverkauf
+
+
+Jetzt auf shop.bitsundso.de
+
+
+Picks
+
+
+basti: Passwortmanagerschmerzen
+timo: M1 Dummy Monitor
+leo: KDE Connect, TestFlight
+alex: Tot Notizen
+
+
+Pre-/Postshow
+
+
+Diese Woche über eine Stunde Bonus-Content mit Bits und so Plus
+Rollcontainer, Wechselbrücken
+Weihnachtsbier, Naturtrüb
+Tesla #8220;Service#8221; Bock auf Kunden
+Wetten, dass…?!
+CWA-Notification
+Pakete
+Ikea Finnland: Söderhamn
+
+
+Sponsoren
+
+
+Setapp
+
+
+Think tasks, not apps
+Über 200 Apps für alle Aufgaben
+Für eine Woche gratis testen, danach 9,99$/Monat
+
+La Vialla
+
+
+Wein, Öl, Pasta und vieles mehr
+Geschenkpakete in allen Größen und Mischungen
+Gratis Katalog bestellen
+
+Jimdo
+
+
+In 3 Minuten zur eigenen Homepage
+Aus vielen Vorlagen auswählen
+20% Rabatt mit Code BITSUNDSO
+
+</itunes:summary>
+		<itunes:keywords>Podcast</itunes:keywords>
+		<itunes:author>Undsoversum GmbH</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	</item>
+	</channel>
+</rss>

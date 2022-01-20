@@ -1,5 +1,5 @@
 <template>
-  <div class="list-sub-title"><slot></slot></div>
+  <div class="list-sub-title text-truncate"><slot></slot></div>
 </template>
 
 <script>

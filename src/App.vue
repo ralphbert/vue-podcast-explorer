@@ -2,19 +2,7 @@
   <div id="app">
     <BaseLayout>
       <template v-slot:aside>
-        <List>
-          <ListItem
-            v-for="post in posts"
-            :key="post.id"
-            :image="post.previewImage"
-            :clickable="true"
-            :active="post.id === selection.id"
-            @click="selection = post"
-          >
-            <ListTitle>{{ post.title }}</ListTitle>
-            <ListSubTitle>by {{ post.user.username }}</ListSubTitle>
-          </ListItem>
-        </List>
+        <FeedList />
       </template>
 
       <DetailView :post="selection"></DetailView>
@@ -27,28 +15,33 @@
 import { dummyPosts } from "@/mock/dummy-posts";
 import { Component, Vue } from "vue-property-decorator";
 import BaseLayout from "@/layouts/BaseLayout.vue";
-import List from "@/components/List.vue";
-import ListItem from "@/components/ListItem.vue";
 import { Post } from "@/types";
 import DetailView from "@/components/DetailView.vue";
-import ListTitle from "@/components/ListTitle.vue";
-import ListSubTitle from "@/components/ListSubTitle.vue";
+import FeedList from "@/components/FeedList.vue";
+import FeedSelector from "@/components/FeedSelector.vue";
 import Tint from "@/components/Tint.vue";
+import { PodcastSource } from "@/store/store";
 
 @Component({
   components: {
+    FeedSelector,
     DetailView,
-    ListItem,
-    ListTitle,
-    ListSubTitle,
-    List,
     BaseLayout,
     Tint,
-  },
+    FeedList
+  }
 })
 export default class App extends Vue {
   posts: Post[] = dummyPosts;
   selection: Post | null = dummyPosts[0];
+
+  get sources(): PodcastSource[] {
+    return this.$store.getters.sources;
+  }
+
+  mounted(): void {
+    this.$store.dispatch("loadFeeds");
+  }
 }
 </script>
 

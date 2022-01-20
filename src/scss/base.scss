@@ -3,7 +3,7 @@
 :root {
   font-size: 16px;
 
-  --primary: #22acf6;
+  --primary: #6b0255;
   --bg-light: #efefef;
 
   --gray-100: #f6f6f6;
@@ -28,6 +28,10 @@
 body {
   font-family: var(--font-sans);
   color: var(--gray-800);
+}
+
+a {
+  color: var(--primary);
 }
 
 * {
@@ -62,6 +66,12 @@ body {
   font-size: 0.8rem;
 }
 
+.text-truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 img {
   display: block;
 }
@@ -80,6 +90,18 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
 }
 
+.block {
+  display: block;
+}
+
 .mb-0 {
   margin-bottom: 0;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
 }

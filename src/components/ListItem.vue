@@ -43,6 +43,7 @@ export default class ListItem extends Vue {
   background-color: var(--gray-100);
   padding: 0.5rem 1rem;
   display: flex;
+  max-width: 100%;
   gap: 1rem;
   align-items: center;
   transition: transform 0.25s;
@@ -68,7 +69,8 @@ export default class ListItem extends Vue {
   }
 }
 
-body {
+.body {
   flex: 1;
+  min-width: 0;
 }
 </style>
