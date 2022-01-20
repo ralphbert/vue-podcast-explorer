@@ -15,23 +15,12 @@
 <script lang="ts">
 import Component from "vue-class-component";
 import Vue from "vue";
-import List from "@/components/List.vue";
-import ListItem from "@/components/ListItem.vue";
-import ListTitle from "@/components/ListTitle.vue";
-import ListSubTitle from "@/components/ListSubTitle.vue";
 import { FeedToggleItem } from "@/store/store";
 
 /**
  * Mmmmmh Burger!
  */
-@Component({
-  components: {
-    List,
-    ListItem,
-    ListTitle,
-    ListSubTitle
-  }
-})
+@Component({})
 export default class FeedToggle extends Vue {
   get feedToggles(): FeedToggleItem[] {
     return this.$store.getters.feedToggles;
@@ -41,6 +30,8 @@ export default class FeedToggle extends Vue {
 
 <style scoped lang="scss">
 .pills {
+  margin: 1rem 1rem 0.5rem;
+
   .pill {
     display: inline-block;
     padding: 0.25em 1em;

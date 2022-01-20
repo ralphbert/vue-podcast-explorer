@@ -6,7 +6,7 @@ import Parser from "rss-parser";
 Vue.use(Vuex);
 
 export type Feed = Parser.Output<unknown>;
-export type FeedItem = Parser.Item & { image: { url: string; } };
+export type FeedItem = Parser.Item & { image: { url: string } };
 
 export interface PodcastSource {
   name: string;
@@ -33,10 +33,6 @@ const predefinedSources = [
   {
     name: "Bits und so",
     feed: "./bus-feed.rss",
-  },
-  {
-    name: "Clean Electric",
-    feed: "./ce-feed.rss",
   },
   {
     name: "Hoaxilla",
@@ -127,27 +123,29 @@ export const store = new Vuex.Store<StoreModel>({
     feeds: (state) => state.feeds,
     selectedFeedItems(state): FeedItem[] {
       return state.feeds
-        .filter(feed => state.shownFeeds.includes(feed.feedUrl || ''))
+        .filter((feed) => state.shownFeeds.includes(feed.feedUrl || ""))
         .reduce((all, feed) => {
-          const feedItems = feed.items.map(item => ({ ...item, image: feed.image }) as FeedItem);
+          const feedItems = feed.items.map(
+            (item) => ({ ...item, image: feed.image } as FeedItem)
+          );
           return [...all, ...feedItems];
-        }, [] as FeedItem[])
-        ;
+        }, [] as FeedItem[]);
     },
     filteredFeedItems(state, getters) {
       let items: FeedItem[] = getters.selectedFeedItems;
 
       if (state.search) {
         const term = state.search.toLowerCase();
-        items = items.filter(item => {
-          return (item.title || '').indexOf(term) !== -1;
+        items = items.filter((item) => {
+          return (item.title || "").toLowerCase().indexOf(term) !== -1;
         });
       }
 
-      items.forEach(i => console.log(i.pubDate))
-
-      return items.sort((a, b) =>
-        new Date(b.pubDate || 0).getTime() - new Date(a.pubDate || 0).getTime());
+      return items.sort(
+        (a, b) =>
+          new Date(b.pubDate || 0).getTime() -
+          new Date(a.pubDate || 0).getTime()
+      );
     },
     feedToggles(state): FeedToggleItem[] {
       return state.feeds.map((feed) => {

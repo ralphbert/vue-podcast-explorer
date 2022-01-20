@@ -18,18 +18,16 @@ import BaseLayout from "@/layouts/BaseLayout.vue";
 import { Post } from "@/types";
 import DetailView from "@/components/DetailView.vue";
 import FeedList from "@/components/FeedList.vue";
-import FeedSelector from "@/components/FeedSelector.vue";
 import Tint from "@/components/Tint.vue";
 import { PodcastSource } from "@/store/store";
 
 @Component({
   components: {
-    FeedSelector,
     DetailView,
     BaseLayout,
     Tint,
-    FeedList
-  }
+    FeedList,
+  },
 })
 export default class App extends Vue {
   posts: Post[] = dummyPosts;
