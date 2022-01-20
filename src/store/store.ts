@@ -118,13 +118,12 @@ export const store = new Vuex.Store<StoreModel>({
     feeds: (state) => state.feeds,
     readItems: (state) => state.read,
     selected(state) {
-      const all = state.feeds
-        .reduce((all, feed) => {
-          const feedItems = feed.items.map(
-            (item) => ({ ...item, image: feed.image } as FeedItem)
-          );
-          return [...all, ...feedItems];
-        }, [] as FeedItem[]);
+      const all = state.feeds.reduce((all, feed) => {
+        const feedItems = feed.items.map(
+          (item) => ({ ...item, image: feed.image } as FeedItem)
+        );
+        return [...all, ...feedItems];
+      }, [] as FeedItem[]);
       return (all as FeedItem[]).find(
         (item) => item.guid === state.selectedItemId
       );
