@@ -70,7 +70,7 @@ export default class FeedList extends Vue {
   }
 
   select(item: FeedItem): void {
-    if (this.selected && this.selected.guid !== item.guid) {
+    if (!this.selected || this.selected.guid !== item.guid) {
       this.$router.push({
         name: "details",
         params: {
